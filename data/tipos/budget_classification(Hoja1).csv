@@ -1,0 +1,882 @@
+﻿code;name;description
+11;IMPUESTOS;Incluye los ingresos originados en la potestad del Estado para establecer tributos de carácter directos o indirectos.
+111;Impuesto Sobre la Renta;Comprende   los   tributos   provenientes   de   la   renta   obtenida   de productos o utilidades percibidos o devengados por sujetos pasivos, provenientes del trabajo, actividad empresarial, de capital o toda clase de productos, ganancias, beneficios o utilidades, cualquiera que sea su origen, de conformidad a lo establecido en la Ley de Impuesto sobre la Renta y su reglamento.
+11101;De Personas Naturales Asalariadas;Comprende el impuesto sobre los ingresos obtenidos por personas naturales, como retribución a su esfuerzo de trabajo tales como: salarios, sueldos, honorarios, comisiones y toda clase de remuneraciones o compensaciones por servicios personales, excepto los gastos de representación.
+11102;De personas Naturales no Asalariadas;Comprende el impuesto sobre los ingresos obtenidos, por personas naturales en el ejercicio liberal de su profesión, derivados de la propiedad de activos fijos, intangibles y financieros, tales como: arrendamientos, intereses, utilidades, dividendos, regalías y otras rentas.
+11103;De Personas Jurídicas;Comprende el impuesto sobre el producto o utilidades obtenidas en el territorio nacional por las personas jurídicas y fideicomisos, domiciliados o no en el país.
+11104;Por Retenciones a Personas Naturales y Jurídicas;Comprende las retenciones aplicadas a personas naturales y jurídicas, por el pago o acreditamiento de cantidades en concepto de rentas, dividendos, utilidades, premios y otros, que se constituyen en pago definitivo del impuesto de conformidad a las leyes aplicables
+112;Impuesto Sobre Transferencia de Bienes Raíces;Comprende los tributos originados en las transferencias de dominio de los bienes inmuebles, de conformidad a la Ley del Impuesto sobre Transferencia de Bienes Raíces.
+11201;De Transferencia de Bienes Raíces;Comprende el impuesto que se aplica sobre el valor real o comercial de los bienes inmuebles transferidos de dominio.
+113;Impuesto Sobre el Comercio Exterior;Comprende los tributos provenientes de las transacciones comerciales entre residentes y el resto del mundo.
+11301;Aranceles a la Importación;Comprende los derechos de importación de mercancías establecidos en el Arancel Centroamericano de Importación.
+114;Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios;"Comprende los tributos originados en transferencia, importación, internación, exportación y al consumo de bienes muebles corporales; como también en prestación, importación, internación, exportación y el autoconsumo de servicios, de conformidad a lo establecido en la Ley de Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios y su reglamento."
+11401;Sobre Transacciones Internas;Comprende el Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios, entre personas domiciliadas en el país.
+11402;Sobre Transacciones con el Exterior;Comprende el impuesto sobre la importación o internación definitiva al país de bienes muebles corporales y de servicios, destinados al uso interno, así como sobre los bienes y servicios destinados a la exportación.
+11403;Sobre Transacciones Internas vía Retención y Percepción;Comprende el Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios, recaudados por agentes de retención y percepción designados por la Dirección General de Impuestos Internos.
+115;Impuesto a Productos Específicos;Comprende los tributos aplicados a determinados productos en el proceso producción, comercialización, distribución, transferencia o importación de conformidad a las Leyes y sus respectivos Reglamentos.
+11501;Específico Sobre Alcohol y Bebidas Alcohólicas;Comprende el impuesto específico sobre el contenido alcohólico, por la producción y la importación de bebidas alcohólicas, así como el retiro de los inventarios de dichos productos, de conformidad a lo establecido en la Ley Reguladora de la Producción de Alcohol y de las Bebidas Alcohólicas.
+11502;Específico Sobre Cerveza;Comprende el impuesto específico sobre el contenido alcohólico, por la producción y la importación de cerveza, así como el retiro de los inventarios de dicho producto, de conformidad a lo establecido en la Ley Reguladora de la Producción de Alcohol y de las Bebidas Alcohólicas.
+11503;Específico sobre Productos de Tabaco;Comprende el impuesto específico sobre la producción e importación de cigarrillos y cualquier otro producto elaborado de tabaco de fabricación nacional o importada, así como el retiro de los inventarios de los productos referidos, de conformidad a lo establecido en la Ley de Impuestos sobre Productos del Tabaco.
+11505;Específico sobre Gasolina;Comprende el impuesto sobre la comercialización de gasolina y gasohol, que realiza el productor o importador hacia los distribuidores
+11508;Específico sobre Bebidas Energizantes o Estimulantes;Comprende el impuesto específico sobre la producción, importación y retiros del inventario de bebidas energizantes o estimulantes, de conformidad a lo establecido en la Ley de Impuesto sobre las Bebidas Gaseosas, Isotónicas, Fortificantes o Energizantes, Jugos, Néctares, Refrescos y Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas
+11509;Ad-valorem sobre Alcohol y Bebidas Alcohólicas;Comprende el impuesto ad-valorem sobre el precio de venta sugerido al consumidor, declarado a la Administración Tributaria por el productor o importador de bebidas alcohólicas. Incluye además, el impuesto ad-valorem por el diferencial de precio, cuando se venda al consumidor de bebidas alcohólicas a precios superiores del sugerido al público, de conformidad a lo establecido en la Ley Reguladora de la Producción de Alcohol y de las Bebidas Alcohólicas. 
+11510;Ad-valorem sobre Cerveza;Comprende el impuesto ad-valorem sobre el precio de venta sugerido al consumidor, declarado a la Administración Tributaria por el productor o importador de cerveza. Incluye además, el impuesto advalorem por el diferencial de precio, cuando se venda al consumidor de cerveza a precios superiores del sugerido al público, de conformidad a lo establecido en la Ley Reguladora de la Producción de Alcohol y de las Bebidas Alcohólicas.
+11511;Ad-valorem sobre Productos de Tabaco;Comprende el impuesto ad-valorem sobre el precio de venta sugerido al consumidor, declarado a la Administración Tributaria por el productor o importador de productos del tabaco. Además incluye el impuesto ad-valorem por el diferencial de precio, cuando los agentes económicos vendan los productos referidos a precios superiores a los consignados en sus empaques, de conformidad a lo establecido en la Ley de Impuesto sobre Productos del Tabaco.
+11512;Ad-valorem sobre Bebidas Carbonatadas o Gaseosas Simples o Endulzadas;Comprende el impuesto ad-valorem sobre el precio de venta sugerido al público, declarado a la Administración Tributaria por el productor o importador de bebidas carbonatadas o gaseosas simples o endulzadas, así como las preparaciones concentradas o en polvo utilizadas en la elaboración de dichas bebidas, de conformidad a lo establecido en la Ley de Impuesto sobre las Bebidas Gaseosas, Isotónicas, Fortificantes o Energizantes, Jugos, Néctares, Refrescos y Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas.
+11513;Ad-valorem sobre Bebidas Energizantes o Estimulantes;Comprende el impuesto ad-valorem sobre la producción, importación y retiros del inventario de bebidas energizantes o estimulantes, así como las preparaciones concentradas o en polvo utilizadas en la elaboración de dichas bebidas, de conformidad a lo establecido en la Ley de Impuesto sobre las Bebidas Gaseosas, Isotónicas, Fortificantes o Energizantes, Jugos, Néctares, Refrescos y Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas.
+11514;Ad-valorem sobre Bebidas Isotónicas o Deportivas, Fortificantes, Jugos, Néctares, Bebidas con Jugo, Refrescos y Preparaciones Concentradas o en Polvo;Comprende el impuesto ad-valorem sobre el precio de venta sugerido al público, declarado a la Administración Tributaria por el productor o importador de bebidas isotónicas o deportivas, fortificantes, jugos, néctares, bebidas con jugo, refrescos y preparaciones concentradas o en polvo, de conformidad a lo establecido en la Ley de Impuesto sobre las Bebidas Gaseosas, Isotónicas, Fortificantes o Energizantes, Jugos, Néctares, Refrescos y Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas.
+11515;Ad-valorem sobre Combustibles;Comprende el impuesto ad-valorem sobre la distribución de combustibles (gasohol, diésel, gasolina o sus mezclas con otros carburantes), realizada por el productor, importador o internador, así como el retiro del inventario, de conformidad a lo establecido en la Ley de Impuesto Especial sobre Combustible. 
+11516;Ad-valorem sobre Armas de Fuego, Municiones, Explosivos y Artículos Similares;Comprende el impuesto sobre la venta o cualquier otra forma de transferencia de propiedad que después de la producción o importación, efectúen los productores o importadores, de conformidad a lo establecido en el Art. 10 de la Ley de Gravámenes Relacionados con el Control y Regulación de Armas de Fuego, Municiones, Explosivos y Artículos Similares.
+11517;Específico sobre Alcohol Etílico Potable;"Comprende el impuesto específico, para la producción y la importación de alcohol etílico potable; así como retiro o desafectación de los inventarios del mencionado producto, de conformidad a lo establecido en la Ley Reguladora de la Producción y Comercialización del Alcohol y de las Bebidas Alcohólicas. "
+116;Impuestos Diversos;"Comprende el impuesto específico, para la producción y la importación de alcohol etílico potable; así como retiro o desafectación de los inventarios del mencionado producto, de conformidad a lo establecido en la Ley Reguladora de la Producción y Comercialización del Alcohol y de las Bebidas Alcohólicas. "
+11601;De Migración y Turismo;Comprende los impuestos relacionados con el movimiento migratorio, tales como el impuesto que se cobra por salir o ingresar al país.
+11602;Sobre Llamadas Telefónicas Provenientes del Exterior;Comprende el impuesto específico a las llamadas telefónicas entrantes provenientes del exterior, que terminen en El Salvador, a través de los operadores concesionarios del servicio público de telefonía, incluyendo las llamadas de cobro revertido.
+11603;Impuesto especial a la primera matrícula de bienes en el territorio nacional;Comprende el impuesto que se paga como requisito previo, para matricular bienes por primera vez en el territorio nacional.
+11604;Impuesto a las Operaciones Financieras ;Comprende el impuesto que recaerá sobre el valor pagado de cualquier tipo de cheque y las transferencias electrónicas realizadas en el territorio nacional, en moneda de legal circulación en el país, cuyo valor a pagar se determina conforme la base imponible del impuesto y sobre el monto de las transacciones u operaciones gravadas, de acuerdo a las regulaciones específicas contenidas en la Ley del Impuesto a las Operaciones Financieras.
+11605;Por Retenciones del Impuesto a las Operaciones Financieras para el Control de Liquidez ;Comprende los ingresos que se originan por los pagos obligatorios efectuados por personas jurídicas de derecho privado y público, con domicilio en el país, destinados a compensar el impuesto a la renta del ejercicio de que se trate, las retenciones a personas naturales y jurídicas por similar concepto y las aplicaciones a los anticipos de impuestos originados durante el ejercicio fiscal anterior.
+119;Anticipo de Impuesto sobre la Renta;Comprende los ingresos que se originan por los pagos obligatorios efectuados por personas jurídicas de derecho privado y público, con domicilio en el país, destinados a compensar el impuesto a la renta del ejercicio de que se trate, las retenciones a personas naturales y jurídicas por similar concepto y las aplicaciones a los anticipos de impuestos originados durante el ejercicio fiscal anterior.
+11901;Sobre la Renta de Personas Naturales Asalariadas;Comprende los ingresos provenientes de las retenciones a personas naturales asalariadas en concepto de anticipo de impuestos sobre la renta, para ser liquidado en el año correspondiente.
+11902;Aplicación Impuesto sobre la Renta de Personas Naturales Asalariadas;Comprende el monto total recaudado en concepto de retenciones a personas naturales asalariadas durante el ejercicio fiscal anterior, que se disminuye del monto de la renta bruta obtenida.
+11903;Sobre la Renta de Personas Naturales no Asalariadas;Comprende los ingresos provenientes de las retenciones a personas naturales no asalariadas en concepto de anticipo de impuestos sobre la renta, para ser liquidado en el año correspondiente.
+11904;Aplicación Impuesto sobre la Renta de Personas Naturales no Asalariadas;Comprende el monto total recaudado en concepto de retenciones a personas naturales no asalariadas durante el ejercicio fiscal anterior, que se disminuye del monto de la renta bruta obtenida.
+11905;Sobre la Renta de Personas Jurídicas y Otros;Comprende el pago o anticipo a cuenta, el cual consiste en enteros obligatorios hechos por personas jurídicas de derecho privado y público domiciliadas y otros sujetos pasivos, a excepción de las previstas en las leyes tributarias.
+11906;Aplicación Impuesto sobre la Renta de Personas Jurídicas y Otros;Comprende el monto total recaudado en concepto de pago o anticipo a cuenta efectuados por personas jurídicas y otros sujetos pasivos, a excepción de las previstas en las leyes tributarias, durante el ejercicio fiscal anterior, que se disminuye del monto de la renta bruta obtenida.
+11907;Sobre la Renta de Personas Naturales;Comprende el pago o anticipo a cuenta, el cual consiste en enteros obligatorios hechos por personas naturales titulares de empresas mercantiles y profesionales liberales, a excepción de las previstas en las leyes tributarias.
+11908;Aplicación Impuesto sobre la Renta de Personas Naturales;Comprende el monto total recaudado en concepto de pago o anticipo a cuenta efectuado por personas naturales titulares de empresas mercantiles y profesionales liberales, a excepción de las previstas en las leyes tributarias, durante el ejercicio fiscal anterior, que se disminuye del monto de la renta bruta obtenida.
+12;TASAS Y DERECHOS;Incluye los gravámenes fijados por las Leyes y Reglamentos vigentes, originados por servicios que se proporcionan a la sociedad o como consecuencia de la habilitación para ejecutar determinadas actividades públicas o privadas.
+121;Tasas;Comprende los ingresos por servicios prestados por las entidades y organismos del Estado que no constituyen actividad comercial, industrial o servicio retribuido por su costo.
+12101;Por Uso de Infraestructura Aeroportuaria;Comprende los ingresos por la prestación de servicios provenientes de la regulación del transporte aéreo nacional e internacional, en la atención de las operaciones aéreas en aterrizajes y despegues y en lo referente a las regulaciones de la aviación civil.
+12102;Por Uso de Centros Destinados a Almacenajes;"Comprende los ingresos provenientes de la prestación de servicios en concepto de almacenaje y bodegaje; incluyendo los que se generan por el vencimiento de los plazos de almacenaje libre, de las mercancías que ingresen a los depósitos temporales administrados por las aduanas de la República."
+12103;Por Intermediación o Supervisión en la Internación de Bienes y Servicios;Comprende los ingresos provenientes de la prestación de servicios de intermediación o supervisión en el suministro de bienes y servicios, tales como el petróleo.
+12104;Por Servicios de Asistencia Técnica y Uso de Laboratorios;Comprende los ingresos provenientes de la prestación de servicios técnicos, tales como servicios de laboratorio, asistencia técnica agropecuaria, servicios de control de calidad y otros.
+12105;Por Servicios de Certificación o Visado de Documentos;Comprende los ingresos provenientes de servicios de visado, expedición, auténtica de documentos y testimonios, constancias y certificaciones de cualquier tipo.
+12106;Por Expedición de Documentos de Identificación;Comprende los ingresos provenientes de la expedición, revalidación o reposición de documentos de identificación, tales como pasaportes, carné de centroamericanos, extranjeros residentes, cédulas de identidad personal, carné de minoridad, de afiliación, etc.
+12107;Por Acceso a Lugares Públicos;Comprende los ingresos provenientes del uso o permanencia en lugares públicos tales como parques, balnearios, museos, centros deportivos, históricos y culturales, etc.
+12108;Por la Prestación de Servicios de Inspección No Intrusiva;Comprende los ingresos provenientes por la prestación de los servicios de inspección no intrusiva que inician desde el análisis de riesgo a que son sometidas las operaciones y consistirá, entre otros aspectos, en verificaciones sobre la naturaleza, estado, peso, cantidad y demás características de las mercancías que se colocan a su disposición, de acuerdo al análisis de riesgo previamente realizado
+12199;Tasas Diversas;Comprende los ingresos obtenidos por la prestación de servicios no considerados en los específicos anteriores
+122;Derechos;Comprende los ingresos por autorizaciones para ejercer determinadas actividades en campos específicos del quehacer económico nacional.
+12201;Por Registro de Comercio;Comprende los ingresos provenientes de los derechos del registro de matrículas de comercio, legalización de libros de contabilidad y otros documentos mercantiles.
+12202;Por Inscripción en el Registro de Bienes Raíces e Hipotecas;"Comprende los ingresos provenientes en concepto de los derechos por el registro de la propiedad raíz e hipotecas; así como por las constancias y certificaciones extendidas."
+12203;Por Permisos y Matrículas de Armas;Comprende los ingresos provenientes de la matrícula de portación y tenencia de armas de fuego.
+12204;Por Examen y Matrículas de Estudiantes;Comprende los ingresos provenientes de los derechos de matrícula y exámenes de estudiantes.
+12205;Por Permisos de Circulación de Vehículos;Comprende los ingresos provenientes de los derechos por la circulación, traspaso de propiedad y modificación de características de vehículos automotores.
+12206;Por Licencias para Conducir o Similares;Comprende los ingresos provenientes de la expedición y revalidación de licencias de conducir, tarjetas de aprendizaje, de cobrador, licencias de pilotos aviadores y otros.
+12207;Por Patentes, Marcas de Fábrica y Otros;Comprende los ingresos provenientes de los derechos del registro de activos intangibles, tales como franquicias, privilegios, derechos de propiedad intelectual, comercial e industrial.
+12208;Por Regalías;Comprende los ingresos provenientes de las exploraciones y explotaciones del subsuelo, del mar territorial y otros recursos naturales, así como cualquier compensación por el uso de bienes intangibles propiedad de los entes públicos.
+12209;Consulares;Comprende los ingresos generados por los servicios que proporcionan los consulados y embajadas del servicio exterior.
+12299;Derechos Diversos;Comprende los ingresos de otros derechos y cargos no considerados en los específicos anteriores.
+13;CONTRIBUCIONES A LA SEGURIDAD SOCIAL;Incluye los ingresos provenientes de aportes y contribuciones a favor del sistema de seguridad social, de conformidad a lo establecido en las Leyes vigentes.
+131;Del Sector Privado;Comprende los aportes de empleados y empleadores de entes del sector privado, destinados a cotizar en el sistema de seguridad social.
+13101;Contribuciones Patronales;Ingresos provenientes de las contribuciones patronales que efectúan las instituciones del sector privado a los sistemas de seguridad social.
+13102;Contribuciones Laborales;Ingresos provenientes de las cotizaciones que hacen los empleados del sector privado a los sistemas de seguridad social
+132;Del Sector Público;Comprende los aportes de empleados y empleadores de entes públicos, destinados a cotizar en el sistema de seguridad social.
+13201;Contribuciones Patronales;Ingresos provenientes de las contribuciones patronales que efectúan las instituciones del sector público a los sistemas de seguridad social.
+13202;Contribuciones Laborales;Ingresos provenientes de las cotizaciones que hacen los empleados del sector público a los sistemas de seguridad social.
+13203;Contribuciones Estatales;Ingresos provenientes de los aportes a los sistemas de seguridad social que efectúa el Estado.
+14;VENTA DE BIENES Y SERVICIOS;Incluye los ingresos originados en las ventas de bienes y servicios, provenientes del giro comercial, industrial o servicios producto de actividades institucionales.
+141;Venta de Bienes;Comprende los ingresos provenientes de la venta de bienes destinados a la comercialización, como resultado de procesos de producción, transformación, intermediación, distribución u otra forma de actividad mercantil.
+14101;Venta de Bienes Comerciales;Incluye los ingresos provenientes de la venta de bienes finales, que no han requerido procesos de producción o transformación en la institución y que son destinados directamente a la comercialización.
+14102;Venta de Bienes Industriales;Incluye los ingresos provenientes de la venta de bienes que han requerido procesos de producción o transformación dentro de los entes públicos y que son destinados a la comercialización.
+14199;Venta de Bienes Diversos;Incluye los ingresos provenientes de la venta de bienes no considerados en los específicos anteriores.
+142;Ingresos por Prestación de Servicios Públicos;Comprende los ingresos provenientes de las tarifas o valores fijados por la prestación de servicios de entes públicos, sin que representen gravámenes de tasas o derechos.
+14201;Servicios Básicos;Comprende los ingresos provenientes de la venta de servicios básicos que hacen los entes públicos tales como: agua, energía eléctrica, etc.
+14202;Servicios de Educación y Salud;Comprende los ingresos por la prestación de servicios educacionales, culturales y de salud, proporcionados por las instituciones públicas, tales como: presentaciones culturales, cuotas estudiantiles, servicios médicos y hospitalarios, etc.
+14203;Servicios Turísticos y Ecológicos;Comprende los ingresos por la prestación de servicios turísticos y ecológicos proporcionados por las instituciones públicas, tales como: guías turísticos, excursiones, hostelería, etc.
+14204;Servicios de Transporte y Correos;Comprende los ingresos por la prestación de servicios de transporte y correos proporcionados por las instituciones públicas, tales como: envíos postales, courier, correos expresos, etc.
+14205;Servicios Portuarios;Comprende los ingresos provenientes de la prestación de servicios de puertos tales como: embarque, desembarque, trasbordo, custodia, manejo y almacenamiento de mercadería de exportación e importación, etc.
+14206;Servicios Aeroportuarios;Comprende los ingresos provenientes de la prestación de servicios de aeropuertos tales como: embarque, desembarque, trasbordo, iluminación de pistas de aterrizaje, estacionamiento de aeronaves, aprovisionamiento de combustible, custodia, manejo y almacenamiento de mercadería de exportación e importación, etc.
+14207;Servicios Ferroviarios;Comprende los ingresos provenientes de la prestación de servicios de transporte y carga de personas y mercaderías en general.
+14208;Servicios de Fiscalización;Comprende los ingresos provenientes de la prestación de servicios de los entes públicos que de acuerdo a sus Leyes y Reglamentos les corresponde la labor de fiscalización.
+14209;Servicios de Destrucción de Mercancías;Comprende los ingresos provenientes por la prestación de servicios de destrucción de mercancías, que durante el procedimiento de verificación no intrusiva o en cualquier momento previo al levante de la misma, se determinare que debe ser destruida por cualquier circunstancia.
+14210;Servicios Aduaneros en Jornadas Extraordinarias;Comprende los ingresos provenientes de la prestación de servicios en Jornadas Extraordinarias por parte de la Dirección General de Aduanas, a través de las Aduanas y Delegaciones de Aduanas de la República.
+14211;Servicios Aduaneros por incremento de personal;Comprende los ingresos provenientes de la prestación de servicios aduaneros por parte de la Dirección General de Aduanas, por incremento de personal con carácter permanente en las Delegaciones de Aduanas de la República, a solicitud del Administrador de Zona Franca o de Parques de Servicios. 
+14299;Servicios Diversos;Comprende los ingresos provenientes de la prestación de servicios no considerados en los específicos anteriores.
+143;Ventas de Desechos y Residuos;Comprende las ventas de bienes, subproductos, residuos, chatarras, desperdicios u otros productos no aptos para el consumo en sus condiciones normales de uso.
+14301;De Bienes Comerciales;Comprende los ingresos provenientes de la venta de productos que se encuentran defectuosos, averiados, obsoletos u otras causas que los determinan como no aptos para el consumo o uso institucional.
+14302;De Bienes Industriales;Comprende los ingresos provenientes de la venta de desechos industriales, que se determinan no aptos para el consumo o uso institucional.
+14399;De Bienes Diversos;Comprende los ingresos provenientes de la venta de desechos y residuos de bienes no considerados en los específicos anteriores. Se incluye la venta de chatarras.
+149;Débito Fiscal;Comprende los débitos fiscales por las ventas de bienes y servicios efectuados por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y prestación de servicios.
+14901;Débito Fiscal;
+15;INGRESOS FINANCIEROS Y OTROS;Comprende los débitos fiscales por las ventas de bienes y servicios efectuados por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y prestación de servicios.
+151;Rendimientos de Títulos valores;Comprende los ingresos provenientes de la rentabilidad de las inversiones financieras, sea en calidad intereses, reajustabilidad u otra de compensación monetaria.
+15101;Rentabilidad Financiera de Bonos;Comprende los ingresos provenientes del rendimiento de la inversión financiera en bonos emitidos por entidades nacionales.
+15102;Rentabilidad Financiera de Letras del Tesoro;Comprende los ingresos obtenidos por el rendimiento de la inversión financiera en Letras del Tesoro.
+15104;Rentabilidad de Cédulas Hipotecarias;Comprende los ingresos obtenidos por el rendimiento de la inversión financiera en Cédulas Hipotecarias.
+15105;Rentabilidad de Depósitos a Plazos;Ingresos provenientes en concepto de intereses por depósitos en instituciones del sistema financiero local.
+15106;Dividendos de Acciones;Comprende los ingresos provenientes de los dividendos por la inversión financiera en acciones de sociedades y empresas públicas o privadas.
+15107;Dividendos de Participación de Capital;Comprende los ingresos provenientes de la inversión financiera en la participación de capital que no está representada por acciones, tales como la participación de capital en sociedades de personas.
+15108;Rentabilidad de Inversiones en el Exterior;Ingresos provenientes en concepto de la rentabilidad financiera obtenida por inversiones en depósitos y valores negociables, realizadas en el resto del mundo.
+15109;Dividendos de Inversiones en el Exterior;Ingresos provenientes de los dividendos por inversiones en acciones y participaciones de capital, realizadas en sociedades y empresas del resto del mundo.
+15199;Otras Rentabilidades Financieras;Comprende los ingresos por otras rentabilidades, dividendos y participaciones de capital no consideradas en los específicos anteriores.
+152;Intereses por Préstamos;Comprende los ingresos provenientes del interés pactado en los convenios o contratos por los préstamos concedidos a entes públicos o privados.
+15201;Al Gobierno Central;Comprende los ingresos provenientes de intereses por préstamos concedidos a instituciones del Gobierno Central.
+15202;A Instituciones Descentralizadas no Empresariales;Comprende los ingresos provenientes de intereses por préstamos concedidos a instituciones descentralizadas no empresariales.
+15203;Empresas Públicas no Financieras;Comprende los ingresos provenientes de intereses por préstamos concedidos a empresas públicas no financieras.
+15204;A Empresas Públicas Financieras;Comprende los ingresos provenientes de intereses por préstamos concedidos a empresas públicas financieras.
+15205;A Instituciones de Seguridad Social;Comprende los ingresos provenientes de intereses por préstamos concedidos a instituciones de Seguridad Social.
+15206;A Municipalidades;Comprende los ingresos provenientes de intereses por préstamos concedidos a las Municipalidades.
+15207;A Empresas Privadas no Financieras;Comprende los ingresos provenientes de intereses por préstamos concedidos a empresas privadas no financieras.
+15208;A Empresas Privadas Financieras;Comprende los ingresos provenientes de intereses por préstamos concedidos a empresas privadas financieras.
+15209;A Organismos sin Fines de Lucro;Comprende los ingresos provenientes de intereses por préstamos concedidos a organismos sin fines de lucro.
+15210;A Personas Naturales;Comprende los ingresos provenientes de intereses por préstamos concedidos a personas naturales.
+153;Multas e Intereses por Mora;Comprende los ingresos exigibles por atrasos o infracciones a las obligaciones tributarias, seguridad social o créditos otorgados por los entes públicos, de conformidad con las disposiciones legales o los convenios suscritos.
+15301;Multas por Mora de Impuestos;Comprende los ingresos provenientes de multas por infracciones a las Leyes Tributarias.
+15302;Intereses por Mora de Impuestos;Comprende los ingresos provenientes de intereses por el pago extemporáneo de impuestos.
+15303;Multas por Mora de Seguridad Social;Comprende los ingresos provenientes de multas por infracciones a las Leyes de la Seguridad Social.
+15304;Intereses por Mora de Seguridad Social;Comprende los ingresos provenientes de los intereses por el pago extemporáneo de las contribuciones a la seguridad social.
+15305;Intereses por Mora en Amortización de Préstamos;Comprende los ingresos provenientes de intereses por el pago extemporáneo de los montos pactados en convenios y contratos.
+15306;Multas por Infracciones de Tránsito;Comprende los ingresos provenientes de multas por infracciones a la Ley General de Transporte Terrestre, Tránsito y Seguridad Vial.
+15307;Intereses por Mora en Infracciones de Tránsito;Comprende los ingresos provenientes de los intereses por el pago extemporáneo de la multa por infracciones a la Ley General de Transporte Terrestre, Tránsito y Seguridad Vial.
+15399;Multas e Intereses Diversos;Comprende los ingresos provenientes de intereses y multas no considerados en los específicos anteriores.
+154;Arrendamiento de Bienes;Comprende los ingresos originados en alquileres de bienes muebles e inmuebles de propiedad del Estado.
+15401;Arrendamientos de Bienes Muebles;Ingresos que se originan por los alquileres de mobiliario y equipo en general. Incluye maquinarias, equipos médicos, de laboratorios, informáticos, vehículos de transportes, etc.
+15402;Arrendamientos de Bienes Inmuebles;Ingresos que se originan por los alquileres de terrenos, edificios e instalaciones.
+15403;Arrendamientos de Espacios Interiores o Exteriores y de Oficinas;Comprende los Ingresos que se originan por arrendamientos de espacios dentro o fuera del establecimiento de la institución, como por ejemplo oficinas para prestar servicios relacionados a trámites, servicios de alimentación, de fotocopia, sanitarios, entre otros.
+15499;Arrendamientos de Bienes Diversos;Ingresos que se originan por los alquileres de bienes muebles e inmuebles no considerados en los específicos anteriores.
+155;Garantías y Fianzas;Comprende los ingresos provenientes de la ejecución de garantías y fianzas recibidas por los entes públicos, cuyo objetivo esta destinados al cumplimiento de contratos o acuerdos pactados.
+15501;Garantías de Contratos de Obras;Ingresos que provienen de la ejecución de garantías por el incumplimiento de contratos de obras, programas y proyectos de inversión diversos.
+15502;Garantías de Contratos Generales;Ingresos que provienen de la ejecución de garantías por el incumplimiento de contratos de suministros diversos.
+15503;Fianzas;Ingresos que provienen de la ejecución de fianzas recibidas por las instituciones del sector público destinadas al cumplimiento de contratos o acuerdos pactados.
+156;Indemnizaciones y Valores no Reclamados;Comprende los ingresos originados en la compensación por pérdidas o daños de bienes muebles e inmuebles de propiedad del Estado, y los valores no reclamados por los beneficiarios, incluyendo los excedentes en la venta o remate de las mercaderías decomisadas o abandonadas.
+15601;Excedentes de Mercaderías Decomisadas o Abandonadas;Comprende el producto de los excedentes en la venta o remate de las mercaderías decomisadas o caídas en abandono, según las leyes vigentes. El valor del impuesto deberá aplicarse en el específico correspondiente.
+15602;Compensaciones por Pérdidas o Daños de Bienes Muebles;Comprende los ingresos que se perciben de compensaciones recibidas por pérdidas o daños a maquinaria, equipo y mobiliario en general, tales como: equipos médicos, de laboratorios, informáticos, vehículos de transporte, muebles de oficina, etc.
+15603;Compensaciones por Daños de Bienes Inmuebles;Comprende los ingresos que provienen de compensaciones por daños a terrenos, edificaciones e instalaciones en general.
+15699;Compensaciones por Pérdidas o Daños de Bienes Diversos;Comprende los ingresos que provienen de compensaciones por pérdidas o daños a bienes no considerados en los específicos anteriores.
+157;Otros Ingresos no Clasificados;Comprende todo ingreso no previsto en los restantes rubros corrientes del clasificador.
+15701;Diferenciales Cambiarios;Ingresos que se perciben por la fluctuación positiva en el tipo de cambio de la moneda nacional con relación a las monedas extranjeras.
+15702;Primas de Seguros;Comprende los ingresos que provienen de las primas de seguros por cualquier modalidad, recibidas por la Caja Mutual de los Empleados del Ministerio de Educación, Caja Mutual del Abogado y otras instituciones de seguridad social que de acuerdo a sus leyes de creación, se dediquen a proporcionar este tipo de servicios.
+15703;Rentabilidad de Cuentas Bancarias;Comprende los ingresos provenientes de la rentabilidad de los depósitos en cuentas bancarias.
+15799;Ingresos Diversos;Comprende los ingresos no considerados en los específicos anteriores y en los restantes rubros de ingresos corrientes del clasificador.
+158;Ingresos por Resoluciones Judiciales;Comprende los ingresos provenientes de sentencias emitidas por un Juzgado, el cual resuelve de forma favorable al Estado la transferencia definitiva de efectivo o sus equivalentes, así como los recursos monetarios provenientes de la liquidación de los bienes o títulos valores de procedencia ilícita, como resultado de la acción de extinción de dominio.
+15801;Efectivo o Equivalentes por Extinción de Dominio ;Comprende los ingresos provenientes de sentencias emitidas por un juzgado en particular donde resuelve a favor del Estado el pago o transferencia definitiva de efectivo o sus equivalentes, producto de la aplicación de la Ley Especial de Extinción de Dominio y de la Administración de Bienes de Origen o Destinación Ilícita.
+15802;Liquidación  de  Bienes  Extinguidos  producto  de  Actividades Ilícitas;Comprende los ingresos provenientes de la liquidación de bienes de origen o destinación ilícita como resultado de sentencias definitivas emitidas por un juzgado, producto de la aplicación de la Ley Especial de Extinción de Dominio y de la Administración de Bienes de Origen o Destinación Ilícita.
+159;Débito Fiscal;Comprende los débitos fiscales por las ventas de servicios efectuados por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y prestación de servicios.
+15901;Débito Fiscal;
+16;TRANSFERENCIAS CORRIENTES;Incluye los ingresos provenientes del sector interno o externo que no generan obligaciones en contraprestación de bienes o servicios, y que están destinados a sufragar obligaciones corrientes.
+161;Transferencias Corrientes de Aporte Fiscal;Comprende los aportes complementarios recibidos del Tesoro Público, destinados a financiar los gastos corrientes de las entidades del sector público.
+1610703;Tesoro Público Nacional;Comprende los recursos financieros transferidos a las Unidades Financieras Institucionales a través del Tesoro Público Nacional, para facilitar el cumplimiento de los objetivos y metas establecidos en el presupuesto General del Estado, de conformidad con lo establecido en la Ley AFI. El específico se constituye asociando el código de la cuenta 161 Transferencias Corrientes de Aporte Fiscal con el código 0703, asignado al Tesoro Público Nacional en el Clasificador Institucional por Áreas de Gestión para Fines Presupuestarios.
+162;Transferencias Corrientes del Sector Público;Comprende los aportes recibidos de entidades del sector público, excluidos los provenientes del Tesoro Público. Los específicos se constituyen asociando el código de la cuenta 162 Transferencias Corrientes del Sector Público con el código asignado a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+1620100;Órgano Legislativo;
+1620200;Corte de Cuentas de la República;
+1620300;Tribunal Supremo Electoral;
+1620400;Tribunal de Servicio Civil;
+1620500;Presidencia de la República;
+1620501;Instituto Nacional de los Deportes de El Salvador;
+1620504;Instituto Salvadoreño para el Desarrollo de la Mujer;
+1620507;Fondo del Milenio;
+1620556;Dirección Nacional de Obras Municipales;
+1620557;Dirección Nacional de Compras Públicas;
+1620558;Agencia de Promoción de Inversiones y Exportaciones de El Salvador;
+1620560;Dirección de Mercados Nacionales;
+1620600;Tribunal de Ética Gubernamental;
+1620650;Instituto de Acceso a la Información Pública;
+1620700;Ramo de Hacienda;
+1620702;Instituto Salvadoreño de Pensiones;
+1620703;Tesoro Público Nacional;
+1620704;Fondo Salvadoreño para Estudios de Preinversión;
+1620800;Ramo de Relaciones Exteriores;
+1620900;Ramo de la Defensa Nacional;
+1620901;Instituto de Previsión Social de la Fuerza Armada;
+1620902;Centro Farmacéutico de la Fuerza Armada;
+1621500;Consejo Nacional de la Judicatura;
+1621600;Órgano Judicial;
+1621601;Caja Mutual del Abogado de El Salvador;
+1621700;Fiscalía General de la República;
+1621800;Procuraduría General de la República;
+1621900;Procuraduría para la Defensa de los Derechos Humanos;
+1622300;Procuraduría para la Defensa de los Derechos Humanos;
+1622304;Instituto Administrador de los Beneficios y Prestaciones Sociales de los Veteranos Militares de la Fuerza Armada y Excombatientes del Frente Farabundo Martí para la Liberación Nacional que participaron en el conflicto armado interno de El Salvador del primero de enero de 1980 al dieciséis de enero de 1992;
+1622305;Consejo Nacional para la Inclusión de las Personas con Discapacidad;
+1622306;Cuerpo de Bomberos de El Salvador;
+1622307;Dirección de Integración;
+1622308;Dirección de Ordenamiento Territorial y Construcción;
+1622400;Ramo de Justicia y Seguridad Pública;
+1622401;Academia Nacional de Seguridad Pública;
+1622402;Unidad Técnica Ejecutiva del Sector Justicia;
+1622403;Consejo Nacional de Administración de Bienes (CONAB);
+1622404;Registro Nacional de las Personas Naturales;
+1622405;Agencia de Ciberseguridad del Estado;
+1623100;Ramo de Educación, Ciencia y Tecnología;
+1623100;Ramo de Educación, Ciencia y Tecnología;
+1623101;Universidad de El Salvador;
+1623102;Federación Salvadoreña de Fútbol;
+1623104;Fondo de Garantía para el Crédito Educativo;
+1623105;Caja Mutual de los Empleados del Ministerio de Educación;
+1623107;Instituto Salvadoreño de Bienestar Magisterial;
+1623109;Consejo Nacional de la Primera Infancia, Niñez y Adolescencia;
+1623110;Instituto Crecer Juntos;
+1623200;Ramo de Salud;
+1623201;Hospital Nacional Rosales;
+1623202;Hospital Nacional “Benjamín Bloom”;
+1623203;Hospital Nacional de la Mujer “Doctora María Isabel Rodríguez”, San Salvador;
+1623204;Hospital Nacional Psiquiátrico “Dr. José Molina Martínez”;
+1623205;Hospital Nacional de Neumología y Medicina Familiar “Dr. José Antonio Saldaña”, San Salvador;
+1623206;Hospital Nacional “San Juan de Dios”, Santa Ana;
+1623207;Hospital Nacional “Francisco Menéndez”, Ahuachapán;
+1623208;Hospital Nacional “Dr. Jorge Mazzini Villacorta”, Sonsonate;
+1623209;Hospital Nacional “Dr. Luis Edmundo Vásquez”, Chalatenango;
+1623210;Hospital Nacional “San Rafael”, Santa Tecla, La Libertad;
+1623211;Hospital Nacional “Santa Gertrudis”, San Vicente;
+1623212;Hospital Nacional “Santa Teresa”, Zacatecoluca;
+1623213;Hospital Nacional “San Juan de Dios”, San Miguel;
+1623214;Hospital Nacional “San Pedro”, Usulután;
+1623215;Hospital Nacional “Dr. Juan José Fernández”, Zacamil;
+1623216;Hospital Nacional “Enfermera Angélica Vidal de Najarro”, San Bartolo, San Salvador;
+1623217;Hospital Nacional “Nuestra Señora de Fátima”, Cojutepeque, Cuscatlán;
+1623218;Hospital Nacional de La Unión;
+1623219;Hospital Nacional de Ilobasco;
+1623220;Hospital Nacional de Nueva Guadalupe;
+1623221;Hospital Nacional “Monseñor Oscar Arnulfo Romero y Galdámez”, Ciudad Barrios, San Miguel ;
+1623222;Hospital Nacional “San Jerynimo Emiliani”, Sensuntepeque, Cabañas;
+1623223;Hospital Nacional de Chalchuapa;
+1623224;Hospital Nacional “Arturo Morales”, Metapán, Santa Ana;
+1623225;Hospital Nacional “Dr. Héctor Antonio Hernández Flores”, San Francisco Gotera, Morazán;
+1623226;Hospital Nacional de Santa Rosa de Lima;
+1623227;Hospital Nacional de Nueva Concepción;
+1623228;Hospital Nacional “Dr. Jorge Arturo Mena”, Santiago de María, Usulután;
+1623229;Hospital Nacional de Jiquilisco;
+1623230;Hospital Nacional de Suchitoto;
+1623231;Consejo Superior de Salud Pública;
+1623232;Instituto Salvadoreño de Rehabilitación Integral;
+1623233;Hogar de Ancianos “Narcisa Castillo”, Santa Ana;
+1623234;Cruz Roja Salvadoreña;
+1623235;Fondo Solidario para la Salud;
+1623237;Hospital Nacional El Salvador;
+1623238;Centro de Maternidad Nacer con Cariño “El Nido”;
+1623239;Instituto Especializado “Hospital El Salvador”;
+1623240;Sistema de Emergencias Médicas;
+1623241;Superintendencia de Regulación Sanitaria;
+1623242;Consejo Nacional de las Especialidades Médicas;
+1623243;Consejo Salvadoreño de Trasplantes;
+1623244;Hospital Nacional de Nejapa;
+1623300;Ramo de Trabajo y Previsión Social;
+1623303;Instituto Salvadoreño del Seguro Social;
+1623304;Fondo de Protección de Lisiados y Discapacitados a Consecuencia del Conflicto Armado;
+1623500;Ramo de Cultura;
+1623600;Ramo de Vivienda;
+1623700;Ramo de Desarrollo Local;
+1624100;Ramo de Economía;
+1624101;Centro Internacional de Ferias y Convenciones de El Salvador;
+1624103;Consejo de Vigilancia de la Profesión de Contaduría Pública y Auditoría;
+1624107;Fondo de Financiamiento y Garantía para la Pequeña Empresa;
+1624109;Superintendencia General de Electricidad y Telecomunicaciones;
+1624110;Superintendencia de Valores;
+1624111;Superintendencia de Pensiones;
+1624112;Corporación Salvadoreña de Inversiones;
+1624113;Instituto Nacional del Azúcar;
+1624114;Centro Nacional de Registros;
+1624115;Fondo de Inversión Nacional de Electricidad y Telefonía;
+1624116;Consejo Salvadoreño de la Agroindustria Azucarera;
+1624117;Superintendencia de Competencia;
+1624118;Defensoría del Consumidor;
+1624120;Consejo Nacional de Calidad;
+1624121;Instituto Salvadoreño de Fomento Cooperativo ;
+1624122;Comisión Nacional de la Micro y Pequeña Empresa;
+1624123;Dirección General de Energía, Hidrocarburos y Minas;
+1624124;Ente Nacional de Transmisión Eléctrica;
+1624125;Agencia Administradora de Fondos Bitcoin;
+1624126;Comisión Nacional de Activos Digitales;
+1624127;Instituto Nacional de Capacitación y Formación;
+1624200;Ramo de Agricultura y Ganadería;
+1624201;4201  Instituto Salvadoreño de Transformación Agraria;
+1624202;4202  Centro Nacional de Tecnología Agropecuaria y Forestal;
+1624203;4203  Escuela Nacional de Agricultura;
+1624204;4204  Banco de Tierras;
+1624205;4205  Banco de Fomento Agropecuario;
+1624208;4208  Instituto de Bienestar Animal;
+1624210;4210  Instituto Salvadoreño del Café;
+1624211;4211  Centro de Desarrollo de Comercio Agropecuario;
+1624300;Ramo de Obras Públicas y de Transporte;
+1624302;4302  Fondo Social para la Vivienda;
+1624304;4304  Autoridad de Aviación Civil;
+162430;4305  Fondo Nacional para la Vivienda Popular;
+1624306;4306  Fondo de Conservación Vial;
+1624308;4308  Fondo para la Atención a las Víctimas de Accidentes de Tránsito;
+1624309;4309  Autoridad Nacional de Residuos Sólidos;
+1624400;Ramo de Medio Ambiente y Recursos Naturales;
+1624404;4404  Autoridad Salvadoreña del Agua;
+1624600;Ramo de Turismo;
+1624601;4601  Instituto Salvadoreño de Turismo;
+1624602;4602  Corporación Salvadoreña de Turismo;
+1624603;4603  Autoridad de Planificación del Centro Histórico de San Salvador;
+163;Transferencias Corrientes del Sector Privado;Comprende los aportes recibidos de entes del sector privado, con domicilio en el país.
+16301;De Empresas Privadas no Financieras;Ingresos provenientes de transacciones efectuadas con empresas privadas no financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16302;De Empresas Privadas Financieras;Ingresos provenientes de transacciones efectuadas con empresas privadas financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16303;De Organismos sin Fines de Lucro;Ingresos provenientes de transacciones efectuadas con organizaciones sin fines de lucro con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16304;De Personas Naturales;Ingresos provenientes de transacciones efectuadas con personas naturales con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+164;Transferencias Corrientes del Sector Externo;Comprende los aportes recibidos de entes públicos o privados, sin domicilio en el país.
+16401;De Empresas Privadas no Financieras;Ingresos provenientes de transacciones efectuadas con empresas privadas no financieras sin domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16402;De Empresas Privadas Financieras;Ingresos provenientes de transacciones efectuadas con empresas privadas financieras sin domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16403;De Gobiernos y Organismos Gubernamentales;Ingresos provenientes de transacciones efectuadas con gobiernos y organismos gubernamentales sin domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16404;De Organismos Multilaterales;Ingresos provenientes de transacciones efectuadas con organismos multilaterales, que no generan obligación de una contraprestación de bienes o servicios.
+16405;De Organismos sin Fines de Lucro;Ingresos provenientes de transacciones efectuadas con organizaciones sin fines de lucro sin domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+16406;De Personas Naturales;Ingresos provenientes de transacciones efectuadas con personas naturales sin domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+165;Otras Transferencias Corrientes del Sector Público;Comprende los aportes recibidos de otras entidades no consideradas en la cuenta 162 Transferencias Corrientes del Sector Público.
+16599;Transferencias Corrientes Diversas del Sector Público;Ingresos provenientes de Fideicomisos y de otras entidades no consideradas en los restantes específicos y cuentas de transferencias corrientes del clasificador.
+21;VENTA DE ACTIVOS FIJOS;Incluye los ingresos por ventas de activos fijos propiedad de los entes públicos.
+211;Venta de Bienes Muebles;Comprende los ingresos provenientes de la venta de bienes tangibles que sean transportables de un lugar a otro por sí mismo o por una fuerza o energía externa.
+21101;Venta de Mobiliarios;Ingresos provenientes de la venta de bienes que sirven para el equipamiento, decoración y ambientación de oficinas o instalaciones.
+21102;Venta de Maquinarias y Equipos;Ingresos que provienen de la venta de maquinarias, equipos y accesorios, que se utilizan o complementan la unidad principal y que sirven para la producción de bienes y servicios.
+21103;Venta de Equipos Médicos y de Laboratorios;Ingresos que provienen de la venta de equipo médico, odontológico y quirúrgico, así como aquellos relacionados con la investigación científica.
+21104;Venta de Equipos Informáticos;Ingresos que provienen de la venta de equipos informáticos tales como monitores, teclados, CPU, UPS, impresoras, reguladores de voltaje, etc.
+21105;Venta de Vehículos de Transporte;Ingresos que provienen de la venta de vehículos de transporte de uso terrestre, marítimo o aéreo.
+21106;Venta de Obras de Arte y Culturales;Ingresos que provienen de la venta de vehículos de transporte de uso terrestre, marítimo o aéreo.
+21107;Venta de Libros y Colecciones;Ingresos que provienen de la venta de enciclopedias, diccionarios, manuscritos o impresos coleccionables.
+21199;Venta de Otros Bienes Muebles;Ingresos que provienen de la venta de otros bienes no considerados en los específicos anteriores.
+212;Venta de Bienes Inmuebles;Comprende los ingresos originados en la venta de bienes tangibles que no sean transportables de un lugar a otro.
+21201;Venta de Terrenos;Incluye los ingresos que provienen de la venta de fincas, haciendas, predios y terrenos de naturaleza rústica, urbana o rural.
+21202;Venta de Edificios e Instalaciones;Comprende los ingresos provenientes de la venta de edificios en general, fabricas, represas, muelles, canales de riego, drenajes, establos, bodegas, etc., que incluye el terreno en que estos se asientan.
+21299;Venta de Otros Bienes Inmuebles;Incluye los ingresos que provienen de la venta de bienes inmuebles no considerados en los específicos anteriores.
+213;Venta de Semovientes;Comprende los ingresos provenientes de la venta de ganado de diferentes especies.
+21301;Venta de Ganado Vacuno;
+21302;Venta de Ganado Caballar;
+21303;Venta de Ganado Porcino;
+21399;Venta de Otros Semovientes;
+214;Venta de Intangibles;Comprende los ingresos provenientes de la venta de derechos de propiedad industrial, comercial, intelectual u otros de igual de naturaleza, que no representen cobros de derechos o tasas por el uso.
+21401;Venta de Derechos de Propiedad Industrial;Comprende los ingresos que se obtienen por la venta de la propiedad industrial, tales como: concesión por explotación de minas, fórmulas industriales, etc.
+21402;Venta de Derechos de Propiedad Comercial;Comprende los ingresos que se obtienen por la venta de la propiedad de comercial, tales como: patentes, marcas de fábrica, nombres comerciales, concesión de rutas de transporte, créditos mercantiles, etc.
+21403;Venta de Derechos de Propiedad Intelectual;Comprende los ingresos que se obtienen por la venta de la propiedad intelectual, tales como: derechos de autor, edición, software, etc.
+21499;Venta de Otros Derechos Intangibles;Comprende los ingresos que se obtienen por la venta de la propiedad de otros derechos intangibles no considerados en los específicos anteriores.
+219;Débito Fiscal;Comprende los débitos fiscales por la venta de bienes efectuados por los entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y prestación de servicios.
+21901;Débito Fiscal;
+22;TRANSFERENCIAS DE CAPITAL;Incluye los ingresos provenientes del sector interno o externo que no generan obligaciones de contraprestación de bienes o servicios, y que están destinados a sufragar obligaciones de capital o amortizaciones de deuda.
+221;Transferencias de Capital de Aporte Fiscal;Comprende los aportes complementarios otorgados por el Tesoro Público, destinados a financiar los gastos de capital o amortización de empréstitos de las entidades del sector público.
+2210703;Tesoro Público Nacional;Comprende los recursos financieros transferidos a las Unidades Financieras Institucionales a través del Tesoro Público Nacional, para facilitar el cumplimiento de los objetivos y metas establecidos en el presupuesto General del Estado, de conformidad con lo estipulado en la Ley AFI. El específico se constituye asociando el código de la cuenta 221 Transferencias de Capital de Aporte Fiscal con el código 0703, asignado al Tesoro Público Nacional en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+222;Transferencias de Capital del Sector Público;Comprende los aportes recibidos de entidades del sector público, excluidos los provenientes del Tesoro Público. Los específicos se constituyen asociando el código de la cuenta 222 Transferencias de Capital del Sector Público con los códigos asignados a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+2220100;Órgano Legislativo;
+2220200;Corte de Cuentas de la República;
+2220300;Tribunal Supremo Electoral;
+2220400;Tribunal de Servicio Civil;
+2220500;Presidencia de la República;
+2220501;Instituto Nacional de los Deportes de El Salvador;
+2220504;Instituto Salvadoreño para el Desarrollo de la Mujer;
+2220507;Fondo del Milenio;
+2220556;Dirección Nacional de Obras Municipales;
+2220557;Dirección Nacional de Compras Públicas;
+2220558;Agencia de Promoción de Inversiones y Exportaciones de El Salvador;
+2220560;Dirección de Mercados Nacionales;
+2220600;Tribunal de Ética Gubernamental;
+2220650;Instituto de Acceso a la Información Pública;
+2220700;Ramo de Hacienda;
+2220702;Instituto Salvadoreño de Pensiones;
+2220703;Tesoro Público Nacional;
+2220704;Fondo Salvadoreño para Estudios de Preinversión;
+2220800;Ramo de Relaciones Exteriores;
+2220900;Ramo de la Defensa Nacional;
+2220901;Instituto de Previsión Social de la Fuerza Armada;
+2220902;Centro Farmacéutico de la Fuerza Armada;
+2221500;Consejo Nacional de la Judicatura;
+2221600;Órgano Judicial;
+2221601;Caja Mutual del Abogado de El Salvador;
+2221700;Fiscalía General de la República;
+2221800;Procuraduría General de la República;
+2221900;Procuraduría para la Defensa de los Derechos Humanos;
+2222300;Procuraduría para la Defensa de los Derechos Humanos;
+2222304;Instituto Administrador de los Beneficios y Prestaciones Sociales de los Veteranos Militares de la Fuerza Armada y Excombatientes del Frente Farabundo Martí para la Liberación Nacional que participaron en el conflicto armado interno de El Salvador del primero de enero de 1980 al dieciséis de enero de 1992;
+2222305;Consejo Nacional para la Inclusión de las Personas con Discapacidad;
+2222306;Cuerpo de Bomberos de El Salvador;
+2222307;Dirección de Integración;
+2222308;Dirección de Ordenamiento Territorial y Construcción;
+2222400;Ramo de Justicia y Seguridad Pública;
+2222401;Academia Nacional de Seguridad Pública;
+2222402;Unidad Técnica Ejecutiva del Sector Justicia;
+2222403;Consejo Nacional de Administración de Bienes (CONAB);
+2222404;Registro Nacional de las Personas Naturales;
+2222405;Agencia de Ciberseguridad del Estado;
+2223100;Ramo de Educación, Ciencia y Tecnología;
+2223100;Ramo de Educación, Ciencia y Tecnología;
+2223101;Universidad de El Salvador;
+2223102;Federación Salvadoreña de Fútbol;
+2223104;Fondo de Garantía para el Crédito Educativo;
+2223105;Caja Mutual de los Empleados del Ministerio de Educación;
+2223107;Instituto Salvadoreño de Bienestar Magisterial;
+2223109;Consejo Nacional de la Primera Infancia, Niñez y Adolescencia;
+2223110;Instituto Crecer Juntos;
+2223200;Ramo de Salud;
+2223201;Hospital Nacional Rosales;
+2223202;Hospital Nacional “Benjamín Bloom”;
+2223203;Hospital Nacional de la Mujer “Doctora María Isabel Rodríguez”, San Salvador;
+2223204;Hospital Nacional Psiquiátrico “Dr. José Molina Martínez”;
+2223205;Hospital Nacional de Neumología y Medicina Familiar “Dr. José Antonio Saldaña”, San Salvador;
+2223206;Hospital Nacional “San Juan de Dios”, Santa Ana;
+2223207;Hospital Nacional “Francisco Menéndez”, Ahuachapán;
+2223208;Hospital Nacional “Dr. Jorge Mazzini Villacorta”, Sonsonate;
+2223209;Hospital Nacional “Dr. Luis Edmundo Vásquez”, Chalatenango;
+2223210;Hospital Nacional “San Rafael”, Santa Tecla, La Libertad;
+2223211;Hospital Nacional “Santa Gertrudis”, San Vicente;
+2223212;Hospital Nacional “Santa Teresa”, Zacatecoluca;
+2223213;Hospital Nacional “San Juan de Dios”, San Miguel;
+2223214;Hospital Nacional “San Pedro”, Usulután;
+2223215;Hospital Nacional “Dr. Juan José Fernández”, Zacamil;
+2223216;Hospital Nacional “Enfermera Angélica Vidal de Najarro”, San Bartolo, San Salvador;
+2223217;Hospital Nacional “Nuestra Señora de Fátima”, Cojutepeque, Cuscatlán;
+2223218;Hospital Nacional de La Unión;
+2223219;Hospital Nacional de Ilobasco;
+2223220;Hospital Nacional de Nueva Guadalupe;
+2223221;Hospital Nacional “Monseñor Oscar Arnulfo Romero y Galdámez”, Ciudad Barrios, San Miguel ;
+2223222;Hospital Nacional “San Jerynimo Emiliani”, Sensuntepeque, Cabañas;
+2223223;Hospital Nacional de Chalchuapa;
+2223224;Hospital Nacional “Arturo Morales”, Metapán, Santa Ana;
+2223225;Hospital Nacional “Dr. Héctor Antonio Hernández Flores”, San Francisco Gotera, Morazán;
+2223226;Hospital Nacional de Santa Rosa de Lima;
+2223227;Hospital Nacional de Nueva Concepción;
+2223228;Hospital Nacional “Dr. Jorge Arturo Mena”, Santiago de María, Usulután;
+2223229;Hospital Nacional de Jiquilisco;
+2223230;Hospital Nacional de Suchitoto;
+2223231;Consejo Superior de Salud Pública;
+2223232;Instituto Salvadoreño de Rehabilitación Integral;
+2223233;Hogar de Ancianos “Narcisa Castillo”, Santa Ana;
+2223234;Cruz Roja Salvadoreña;
+2223235;Fondo Solidario para la Salud;
+2223237;Hospital Nacional El Salvador;
+2223238;Centro de Maternidad Nacer con Cariño “El Nido”;
+2223239;Instituto Especializado “Hospital El Salvador”;
+2223240;Sistema de Emergencias Médicas;
+2223241;Superintendencia de Regulación Sanitaria;
+2223242;Consejo Nacional de las Especialidades Médicas;
+2223243;Consejo Salvadoreño de Trasplantes;
+2223244;Hospital Nacional de Nejapa;
+2223300;Ramo de Trabajo y Previsión Social;
+2223303;Instituto Salvadoreño del Seguro Social;
+2223304;Fondo de Protección de Lisiados y Discapacitados a Consecuencia del Conflicto Armado;
+2223500;Ramo de Cultura;
+2223600;Ramo de Vivienda;
+2223700;Ramo de Desarrollo Local;
+2224100;Ramo de Economía;
+2224101;Centro Internacional de Ferias y Convenciones de El Salvador;
+2224103;Consejo de Vigilancia de la Profesión de Contaduría Pública y Auditoría;
+2224107;Fondo de Financiamiento y Garantía para la Pequeña Empresa;
+2224109;Superintendencia General de Electricidad y Telecomunicaciones;
+2224110;Superintendencia de Valores;
+2224111;Superintendencia de Pensiones;
+2224112;Corporación Salvadoreña de Inversiones;
+2224113;Instituto Nacional del Azúcar;
+2224114;Centro Nacional de Registros;
+2224115;Fondo de Inversión Nacional de Electricidad y Telefonía;
+2224116;Consejo Salvadoreño de la Agroindustria Azucarera;
+2224117;Superintendencia de Competencia;
+2224118;Defensoría del Consumidor;
+2224120;Consejo Nacional de Calidad;
+2224121;Instituto Salvadoreño de Fomento Cooperativo ;
+2224122;Comisión Nacional de la Micro y Pequeña Empresa;
+2224123;Dirección General de Energía, Hidrocarburos y Minas;
+2224124;Ente Nacional de Transmisión Eléctrica;
+2224125;Agencia Administradora de Fondos Bitcoin;
+2224126;Comisión Nacional de Activos Digitales;
+2224127;Instituto Nacional de Capacitación y Formación;
+2224200;Ramo de Agricultura y Ganadería;
+2224201;4201  Instituto Salvadoreño de Transformación Agraria;
+2224202;4202  Centro Nacional de Tecnología Agropecuaria y Forestal;
+2224203;4203  Escuela Nacional de Agricultura;
+2224204;4204  Banco de Tierras;
+2224205;4205  Banco de Fomento Agropecuario;
+2224208;4208  Instituto de Bienestar Animal;
+2224210;4210  Instituto Salvadoreño del Café;
+2224211;4211  Centro de Desarrollo de Comercio Agropecuario /84;
+2224300;Ramo de Obras Públicas y de Transporte;
+2224302;4302  Fondo Social para la Vivienda;
+2224304;4304  Autoridad de Aviación Civil;
+222430;4305  Fondo Nacional para la Vivienda Popular;
+2224306;4306  Fondo de Conservación Vial;
+2224308;4308  Fondo para la Atención a las Víctimas de Accidentes de Tránsito;
+2224309;4309  Autoridad Nacional de Residuos Sólidos;
+2224400;Ramo de Medio Ambiente y Recursos Naturales;
+2224404;4404  Autoridad Salvadoreña del Agua;
+2224600;Ramo de Turismo;
+2224601;4601  Instituto Salvadoreño de Turismo;
+2224602;4602  Corporación Salvadoreña de Turismo;
+2224603;4603  Autoridad de Planificación del Centro Histórico de San Salvador;
+223;Transferencias de Capital del Sector Privado;Comprende los aportes recibidos de entes del sector privado, con domicilio en el país.
+22301;De Empresas Privadas no Financieras;"Comprende los ingresos provenientes de empresas privadas no financieras, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22302;De Empresas Privadas Financieras;"Comprende los ingresos provenientes de empresas privadas financieras, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22303;De Organismos sin Fines de Lucro;"Comprende los ingresos provenientes de Organizaciones sin Fines de Lucro, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22304;De Personas Naturales;"Comprende los ingresos provenientes de personas naturales, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+224;Transferencias de Capital del Sector Externo;Comprende los aportes recibidos de entes sector público o privado, sin domicilio en el país.
+22401;De Empresas Privadas no Financieras;"Comprende los ingresos provenientes de empresas privadas no financieras del exterior, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22402;De Empresas Privadas Financieras;"Comprende los ingresos provenientes de empresas privadas financieras del exterior, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22403;De Gobiernos y Organismos Gubernamentales;"Comprende los ingresos provenientes de gobiernos y organismos gubernamentales del exterior, los cuales no generan para la entidad que la recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22404;De Organismos Multilaterales;"Comprende los ingresos provenientes de organismos multilaterales, los cuales no generan para la entidad que la recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijos o para aumentar el capital financiero institucional."
+22405;De Organismos sin Fines de Lucro;"Comprende los ingresos provenientes de organizaciones sin fines de lucro del exterior, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activo fijo o para aumentar el capital financiero institucional."
+22406;De Personas Naturales;"Comprende los ingresos provenientes de personas naturales del exterior, los cuales no generan para la entidad que lo recibe obligación de una contraprestación de bienes y servicios; dichas cantidades se destinan a la formación de activos fijo o para aumentar el capital financiero institucional."
+225;Otras Transferencias de Capital;Comprende los ingresos recibidos de otras entidades no consideradas en las restantes Cuentas de Transferencias de Capital del Clasificador.
+22501;Transferencias de Capital Diversas;Comprende los ingresos provenientes de transferencias de capital diversas, no considerados en las restantes Cuentas de Transferencias del Capital del Clasificador.
+22599;Transferencias de Capital Diversas del Sector Público;Ingresos provenientes de Fideicomisos y de otras entidades no consideradas en los restantes específicos y cuentas de transferencias de capital del clasificador.
+23;RECUPERACION DE INVERSIONES FINANCIERAS;Incluye los ingresos provenientes del rescate o reintegro de las inversiones originados en las colocaciones de fondos, derechos o valores.
+231;Recuperación de Inversiones en Títulos valores;Comprende la recuperación de los depósitos, bonos u otros documentos de inversión de recursos en el mercado de capitales, incluyendo la liquidación total o parcial en las participaciones de capital en empresas de economía mixta o privada.
+23101;Liquidación de Bonos;Comprende los ingresos provenientes de la recuperación de la inversión en bonos, adquiridos en el mercado de capitales.
+23102;Liquidación de Letras del Tesoro;Comprende los ingresos provenientes de la recuperación de las inversiones en letras del tesoro, adquiridas por los entes públicos.
+23103;Liquidación de Notas de Crédito del Tesoro Público;Comprende los ingresos provenientes de la recuperación de la inversión en notas de crédito, emitidas por el tesoro público nacional a favor de los entes inscritos como contribuyentes activos de los impuestos.
+23104;Liquidación de Cédulas Hipotecarias;Comprende los ingresos provenientes de la recuperación de la inversión en notas de crédito, emitidas por el tesoro público nacional a favor de los entes inscritos como contribuyentes activos de los impuestos.
+23105;Liquidación de Depósitos a Plazo;Comprende los ingresos de la recuperación de los depósitos a plazo efectuados por los entes públicos en el sistema financiero nacional.
+23106;Venta de Acciones;Comprende los ingresos provenientes de la recuperación de inversión en acciones correspondientes a sociedades o empresas privadas, públicas o externas.
+23107;Liquidación de Participación de Capital;Comprende los ingresos provenientes de la recuperación del capital invertido en empresas privadas o de economía mixta.
+23108;Liquidación de Títulos valores en el Exterior;Comprende los ingresos provenientes de la recuperación de inversión en bonos, letras, cédulas hipotecarias, depósitos a plazo colocados en empresas privadas, públicas externas.
+23109;Acciones y Participación de Capital en el Exterior;Comprende los ingresos provenientes de la recuperación de inversión en acciones y participación de capital, invertido en empresas privadas o de economía mixta, públicas externas.
+23199;Liquidación de otros Títulos valores;Comprende los ingresos provenientes de la liquidación de los títulos valores no considerados en los específicos anteriores.
+232;Recuperación de Préstamos;Comprende la restitución de los créditos otorgados a personas naturales o jurídicas, en las condiciones pactadas en los respectivos convenios o contratos.
+23201;Al Gobierno Central;Ingresos provenientes del reembolso parcial o total de los créditos concedidos al gobierno central.
+23202;A Instituciones Descentralizadas no Empresariales;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a instituciones descentralizadas no empresariales.
+23203;A Empresas Públicas no Financieras;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a empresas públicas no financieras.
+23204;A Empresas Públicas Financieras;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a empresas públicas financieras.
+23205;A Instituciones de Seguridad Social;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a instituciones de seguridad social.
+23206;A Municipalidades;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a los gobiernos locales.
+23207;A Empresas Privadas no Financieras;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a empresas privadas no financieras.
+23208;A Empresas Privadas Financieras;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a empresas privadas financieras.
+23209;A Organismos sin Fines de Lucro;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a organismos sin fines de lucro.
+23210;A Personas Naturales;Ingresos provenientes del reembolso parcial o total de los créditos concedidos a personas naturales.
+31;ENDEUDAMIENTO PÚBLICO;Incluye los ingresos originados en la colocación de instrumentos financieros públicos y en la contratación de empréstitos.
+311;Colocaciones de Títulos valores en el Mercado Nacional;Comprende los recursos resultantes de la colocación de bonos, letras u otros instrumentos destinados a la captación de ahorro interno.
+31101;Bonos del Estado;Incluye los ingresos provenientes de la colocación de bonos destinados a la captación de ahorro en el mercado nacional.
+31102;Letras del Tesoro;Incluye los ingresos provenientes de la colocación de letras del tesoro en el mercado nacional, destinados a financiar deficiencias temporales de caja.
+31103;Notas de Crédito del Tesoro Público;Incluye los ingresos provenientes del traslado de notas de crédito al sujeto pasivo del impuesto, de conformidad a lo establecido en las leyes vigentes.
+31199;Títulos valores Diversos;Incluye los ingresos provenientes de la colocación de otros Títulos valores no considerados en los específicos anteriores.
+312;Colocaciones de Títulos valores en el Mercado Externo;Comprende los recursos resultantes de la colocación de bonos, letras u otros instrumentos destinados a la captación de ahorro externo.
+31201;Bonos del Estado;Incluye los ingresos provenientes de la colocación de bonos destinados a la captación de ahorro en el mercado externo.
+31202;Letras del Tesoro;Incluye los ingresos provenientes de la colocación de letras del tesoro en el mercado externo, destinados a financiar deficiencias temporales de caja.
+31299;Títulos valores Diversos;Incluye los ingresos provenientes de la colocación de otros Títulos valores en el mercado externo, no considerados en los específicos anteriores.
+313;Contratación de Empréstitos Internos;Comprende los créditos financieros provenientes de contratos o convenios con personas naturales o jurídicas, con domicilio en el país.
+31301;De Gobierno Central;Ingresos provenientes de créditos contratados con el gobierno central, destinados a financiar programas o proyectos de inversión.
+31302;De Instituciones Descentralizadas no Empresariales;Ingresos provenientes de créditos contratados con instituciones descentralizadas no empresariales, destinados a financiar programas o proyectos de inversión.
+31303;De Empresas Públicas no Financieras;Ingresos provenientes de créditos contratados con empresas públicas no financieras, destinados a financiar programas o proyectos de inversión.
+31304;De Empresas Públicas Financieras;Ingresos provenientes de créditos contratados con empresas públicas financieras, destinados a financiar programas o proyectos inversión.
+31305;De Instituciones de Seguridad Social;Ingresos provenientes de créditos contratados con instituciones de seguridad social, destinados a financiar programas o proyectos de inversión.
+31306;De Municipalidades;Ingresos provenientes de créditos contratados con gobiernos locales, destinados a financiar programas o proyectos de inversión.
+31307;De Empresas Privadas no Financieras;Ingresos provenientes de créditos contratados con empresas privadas no financieras, destinados a financiar programas o proyectos de inversión.
+31308;De Empresas Privadas Financieras;Ingresos provenientes de créditos contratados con empresas privadas financieras, destinados a financiar programas o proyectos de inversión.
+31309;De Organismos sin Fines de Lucro;Ingresos provenientes de créditos contratados con organismos sin fines de lucro, destinados a financiar programas o proyectos de inversión.
+31310;De Personas Naturales;Ingresos provenientes de créditos contratados con personas naturales, destinados a financiar programas o proyectos de inversión.
+314;Contratación de Empréstitos Externos;Comprende los créditos financieros originados en contratos o convenios con personas naturales o jurídicas, sin domicilio en el país.
+31401;De Empresas Privadas no Financieras;Comprende los desembolsos provenientes de créditos contratados con empresas privadas no financieras, destinados a financiar programas o proyectos de inversión.
+31402;De Empresas Privadas Financieras;Comprende los desembolsos provenientes de créditos contratados con empresas privadas financieras, destinados a financiar programas o proyectos de inversión.
+31403;De Gobiernos y Organismos Gubernamentales;Comprende los desembolsos provenientes de créditos contratados con gobiernos y organismos gubernamentales extranjeros, destinados a financiar programas o proyectos de inversión.
+31404;De Organismos Multilaterales;Comprende los desembolsos provenientes de créditos contratados con organismos multilaterales, destinados a financiar programas o proyectos de inversión.
+31405;De Organismos sin Fines de Lucro;Comprende los desembolsos provenientes de créditos contratados con organizaciones sin fines de lucro, destinados a financiar programas o proyectos de inversión.
+31406;De Personas Naturales;Comprende los desembolsos provenientes de créditos contratados con personas naturales, destinados a financiar programas o proyectos de inversión.
+32;SALDOS DE AÑOS ANTERIORES;Incluye las disponibilidades efectivas de fondos, y los derechos devengados y no percibidos, existentes al término del ejercicio fiscal precedente al cual se proyecta ejecutar.
+321;Saldos Iniciales de Caja y Banco;Saldos en caja y banco, disponibles al término del ejercicio financiero fiscal anterior.
+32101;Saldo Inicial en Caja;Saldos en caja disponibles al término del ejercicio financiero fiscal anterior.
+32102;Saldo Inicial en Banco;Saldos en banco disponibles al término del ejercicio financiero fiscal anterior.
+322;Cuentas por Cobrar de Años Anteriores;Derechos devengados y no percibidos al término del ejercicio fiscal anterior, cuya recaudación se estima generar en el período presupuestario en el cual se proyecta ejecutar.
+32201;Cuentas por Cobrar de Años Anteriores;
+41;INGRESO POR CONTRIBUCIONES ESPECIALES;Incluye los ingresos originados en la potestad del Estado para establecer contribuciones.
+411;Contribuciones a Productos Especiales;Comprende los ingresos provenientes de los agentes económicos, sujetos de contribuciones especiales para el financiamiento de actividades de beneficio público.
+41101;Contribución Especial sobre el Diesel y Gasolina;"Comprende la contribución especial sobre la venta o cualquier forma de transferencia de propiedad del diésel y gasolinas o sus mezclas con otros carburantes que realicen importadores o refinadores; asimismo incluye las importaciones directas que efectúen las personas naturales o jurídicas para su propio consumo."
+41102;Contribución por Libra de Azúcar Extraída;Comprende la contribución especial por libra de azúcar extraída que deberán aportar los productores de caña y las centrales azucareras o ingenios.
+41103;Contribución sobre Bebidas Alcohólicas, Tabaco y Armas;Comprende la contribución especial sobre la producción y comercialización de alcohol y bebidas alcohólicas, productos de tabaco, armas de fuego, municiones, explosivos y artículos similares.
+41104;Contribución Especial para la Promoción Turística;Comprende la contribución especial sobre el pago de alojamiento en los establecimientos que brinden servicios turísticos, y sobre el pago por salida del territorio nacional por vía aérea y por persona.
+41105;Contribución Especial para la Estabilización de las Tarifas del Servicio Público de Transporte Colectivo de Pasajeros;Comprende la contribución especial para estabilización de las tarifas del servicio público de transporte colectivo de pasajeros, aplicado a la venta o cualquier forma de transferencia de propiedad de diésel y gasolina regular o especial, que realicen importadores o refinadores. 
+41106;Contribución Especial para la Atención de Víctimas de Accidentes de Tránsito;Comprende la contribución especial sobre la propiedad, posesión o legítima tenencia de un vehículo automotor y por el ingreso al territorio nacional de un vehículo automotor con placas extranjeras.
+41107;Contribución   Especial   para   la   Seguridad   Ciudadana   y Convivencia;"Comprende la contribución especial sobre la adquisición y/o utilización de servicios de telecomunicaciones en todas sus modalidades, independientemente de los medios tecnológicos, terminales, aparatos o dispositivos que se empleen para su consumo, de acuerdo a los alcances establecidos en la Ley; y sobre la transferencia de cualquier tipo de dispositivo tecnológico, terminales, aparatos y accesorios de los mismos que permitan la utilización de servicios de telecomunicaciones; cuyo valor se determinará en una alícuota del 5% sobre la base imponible establecida en la Ley de Contribución Especial para la Seguridad Ciudadana y Convivencia."
+41108;Contribución Especial a los Grandes Contribuyentes para el Plan de Seguridad Ciudadana;Comprende la contribución especial sobre la obtención de ganancias netas iguales o mayores a quinientos mil dólares de los Estados Unidos de América (US$500,000) y se calculará aplicando la tasa del cinco por ciento (5%) sobre el monto total de las mismas, obtenidas por cualquier persona jurídica, uniones de personas, sociedades irregulares de hecho, domiciliadas o no.
+51;REMUNERACIONES;Incluye las retribuciones al personal del Estado por los servicios prestados, de conformidad con las leyes vigentes.
+511;Remuneraciones Permanentes;Comprende los gastos por las retribuciones al personal que presta servicios permanentes en los entes públicos, incluyendo los emolumentos por horas clase.
+51101;Sueldos;Comprende las remuneraciones al personal que presta servicios permanentes en las instituciones del sector público.
+51102;Salarios por Jornal;Comprende las remuneraciones al personal que presta servicios permanentes en las instituciones del sector público, cuyo pago es por hora.
+51103;Aguinaldos;Comprende la compensación adicional a favor del personal de los entes públicos, de conformidad a lo establecido en las leyes vigentes.
+51104;Sobresueldos;Comprende las remuneraciones al personal de los entes públicos, adicionales al sueldo que tiene asignado en la plaza que ha sido nombrado.
+51105;Dietas;Comprende los honorarios que devengan los miembros de organismos colegiados, de acuerdo a las normas legales que las regulan.
+51106;Complementos;Comprende las retribuciones al personal de los entes públicos, en concepto de servicios personales prestados en tareas afines a su ocupación, que no constituyen una remuneración continua, ni una bonificación.
+51107;Beneficios Adicionales;Comprende las remuneraciones al personal de los entes públicos no considerados en los específicos anteriores tales como: bonificaciones, vacaciones etc.
+512;Remuneraciones Eventuales;Comprende los gastos por las retribuciones al personal que presta servicios de carácter eventual en los entes públicos.
+51201;Sueldos;Comprende las remuneraciones al personal que presta servicios eventuales en las instituciones del sector público, cuyo sistema de pago es a través de contratos.
+51202;Salarios por Jornal;Comprende las remuneraciones al personal que presta servicios eventuales en las instituciones del sector público, cuyo pago es por hora.
+51203;Aguinaldos;Comprende la compensación adicional a favor del personal de los entes públicos, de conformidad a lo establecido en las leyes vigentes.
+51204;Sobresueldos;Comprende las remuneraciones al personal de los entes públicos, adicionales al sueldo que tiene asignado en la plaza que ha sido nombrado.
+51206;Complementos;Comprende las retribuciones al personal de los entes públicos, en concepto de servicios personales prestados en tareas afines a su ocupación, que no constituyen una remuneración continua, ni una bonificación.
+51207;Beneficios Adicionales;Comprende las remuneraciones al personal de los entes públicos no considerados en los específicos anteriores tales como: bonificaciones, vacaciones etc.
+513;Remuneraciones Extraordinarias;Comprende los gastos destinados a las retribuciones al personal que presta servicios en horas fuera de audiencia, y los beneficios especiales que otorgan las leyes a los servidores públicos o previstos en los contratos de trabajo.
+51301;Horas Extraordinarias;Comprende las retribuciones al personal de los entes públicos, que prestan servicios en horas fuera de audiencia, de conformidad a la normativa vigente.
+51302;Beneficios Extraordinarios;Comprende las retribuciones al personal de los entes públicos, en concepto de incapacidades por enfermedad, accidentes de trabajo, etc., incluyendo ayudas económicas para compensar gastos ocasionados por tratamientos médicos y otros que puedan derivarse de acuerdos o contratos colectivos de trabajo.
+514;Contribuciones Patronales a Instituciones de Seguridad Social Públicas;Comprende los gastos de los entes públicos por aporte a las instituciones de seguridad social públicas, en su calidad de empleadores.
+51401;Por Remuneraciones Permanentes;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social públicas en su carácter de patrono del personal en plazas permanentes
+51402;Por Remuneraciones Eventuales;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social públicas en su carácter de patrono del personal en plazas eventuales.
+51403;Por Remuneraciones Extraordinarias;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social públicas en su carácter de patrono del personal que realiza trabajos en horas fuera de audiencia.
+515;Contribuciones Patronales a Instituciones de Seguridad Social Privadas;Comprende los gastos de los entes públicos por aporte a las instituciones de seguridad social privadas, en su calidad de empleadores.
+51501;Por Remuneraciones Permanentes;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social privadas en su carácter de patrono del personal en plazas permanentes.
+51502;Por Remuneraciones Eventuales;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social privadas en su carácter de patrono del personal en plazas eventuales.
+51503;Por Remuneraciones Extraordinarias;Incluye las contribuciones de los entes públicos a las instituciones de seguridad social privadas en su carácter de patrono del personal que realiza trabajos en horas fuera de audiencia.
+516;Gastos de Representación;Comprende los gastos por asignaciones de representación en función de las jerarquías institucionales, y aquellos destinados a sufragar erogaciones especiales originadas en comisiones de servicios, se excluyen las retribuciones correspondientes a viáticos y costos de traslado.
+51601;Por Prestación de Servicios en el País;Incluye los gastos de representación asignados a funcionarios públicos, de conformidad a lo establecido en la normativa vigente.
+51602;Por Prestación de Servicios en el Exterior;Incluye los gastos de representación asignados a funcionarios públicos en delegaciones de comisión oficial fuera del territorio nacional.
+517;Indemnizaciones;Comprende los gastos destinados a compensar económicamente al personal de los entes públicos, como consecuencia del retiro voluntario, despido injustificado o resarcir daños determinados por las leyes.
+51701;Al Personal de Servicios Permanentes;Incluye los gastos por indemnizaciones al personal que presta servicios permanentes en las instituciones del sector público.
+51702;Al Personal de Servicios Eventuales;Incluye los gastos por indemnizaciones al personal que presta servicios eventuales en las instituciones del sector público.
+518;Comisiones por Servicios Personales;Comprende los gastos de emolumentos basados en las actividades o resultados obtenidos, tales como: ventas, recaudación de ingresos, recuperaciones de carteras u otros de igual naturaleza.
+51801;Comisiones por Ventas;Incluye las retribuciones al personal en concepto de comisiones por venta de bienes o servicios, de conformidad a la normativa establecida.
+51802;Comisiones por Recaudaciones;Incluye las retribuciones al personal en concepto de comisiones por recaudaciones de ingresos, de conformidad a la normativa establecida.
+51803;Comisiones por Recuperación de Carteras;Incluye las retribuciones al personal en concepto de comisiones por recuperación de la mora (deudores), de conformidad a la normativa establecida.
+51899;Comisiones por Procedencia Diversas;Incluye las retribuciones al personal en concepto de comisiones diversas no consideradas en los específicos anteriores.
+519;Remuneraciones Diversas;Comprende otras erogaciones a favor del personal de los entes públicos, no previstos en las cuentas individualizadas en este rubro.
+51901;Honorarios;Comprende los gastos efectuados por servicios eventuales proporcionados a favor del Estado, por ejemplo comparecencias para formar tribunales de conciencia.
+51902;Remuneraciones por Servicios Especiales;Comprende las retribuciones al personal que presta servicios en las instituciones del sector público, que por su naturaleza se consideran servicios especiales, por ejemplo miembros de comisiones especiales de gobierno, intergremiales, etc.
+51903;Prestaciones Sociales al Personal;Comprende los gastos por prestaciones sociales proporcionadas al personal de los entes públicos, tales como: cuotas alimenticias, de vestuario, médicas, escolares, actividades sociales, etc.
+51999;Remuneraciones Diversas;Comprende los gastos por remuneraciones diversas proporcionadas al personal de los entes públicos, no consideradas en los específicos anteriores.
+53;PRESTACIONES DE LA SEGURIDAD SOCIAL;Incluye los gastos por los beneficios previsionales que otorgan las entidades de seguridad social a sus afiliados o beneficiarios, de conformidad con las leyes vigentes.
+531;Beneficios Previsionales;Comprende los gastos de los organismos de seguridad social por las prestaciones que brindan a sus afiliados o beneficiarios, en términos de jubilación, pensiones y otras de igual naturaleza. Además incluye los desembolsos efectuados en concepto de Certificados de Traspaso, que realicen los organismos de seguridad social públicos al Sistema de Ahorro para Pensiones.
+53101;Pensiones por Vejez;Comprende los gastos realizados por los organismos de seguridad social, por las prestaciones que proporcionan a sus afiliados, para asegurar su bienestar al haber cumplido los requisitos de ley correspondiente.
+53102;Pensiones por Invalidez;Comprende los gastos realizados por los organismos de seguridad social, por las prestaciones que proporcionan a sus afiliados para asegurar su bienestar cuando hayan perdido su capacidad permanente para ejercer cualquier trabajo, de conformidad a la ley correspondiente.
+53103;Pensiones por Viudez;Comprende los gastos realizados por los organismos de seguridad social, por retribuciones en concepto de pensión a los cónyuges del afiliado cuando éste haya fallecido, de conformidad a la ley correspondiente.
+53104;Pensiones por Orfandad;Comprende los gastos realizados por los organismos de seguridad social, por retribuciones en concepto de pensión a los hijos del afiliado cuando este haya fallecido, de conformidad a la ley correspondiente.
+53105;Beneficios por Incapacidad Temporal;Comprende los gastos realizados por los organismos de seguridad social a favor de sus afiliados, por ejemplo beneficios por incapacidad temporal para ejercer su trabajo. Se incluyen además los gastos en concepto de auxilio de sepelios.
+53106;Beneficios Adicionales;Comprende los gastos realizados por los organismos de seguridad social en concepto de aguinaldos para los pensionados del sistema de pensiones públicas.
+53199;Pensiones y Jubilaciones Diversas;Comprende otros gastos por pensiones y jubilaciones realizados por los organismos de seguridad social a favor de sus afiliados y beneficiarios, no considerados en los específicos anteriores.
+54;ADQUISICIONES DE BIENES Y SERVICIOS;Comprende otros gastos por pensiones y jubilaciones realizados por los organismos de seguridad social a favor de sus afiliados y beneficiarios, no considerados en los específicos anteriores.
+541;Bienes de Uso y Consumo;Comprende los gastos destinados a las adquisiciones de bienes materiales y suministros, tanto para la producción como para el funcionamiento de los entes públicos.
+54101;Productos Alimenticios para Personas;Incluye los gastos por la adquisición de productos alimenticios, manufacturados o no, aceites y grasas animales, vegetales y bebidas en sus diversas formas. Asimismo, comprende los gastos en concepto de alimentación.
+54102;Productos Alimenticios para Animales;Incluye los gastos por la adquisición de forrajes y toda clase de alimentos para animales.
+54103;Productos Agropecuarios y Forestales;Incluye los gastos por la adquisición de ganado y otros animales destinados al consumo, así mismo productos agroforestales tales como: maderas, fibras no elaboradas, cueros, huesos, resinas y bálsamos, césped, árboles y productos manufacturados o no, de madera y corcho, excepto muebles
+54104;Productos Textiles y Vestuarios;"Incluye los gastos por la adquisición de hilados y telas (fibras y tejidos animales, vegetales, sintéticos y artificiales); acabados textiles (sabanas, fundas frazadas, mantas, alfombras, cortinas, toallas, sogas, cordeles, artículos conexos de cáñamo, yute, algodón y fibras sintéticas) y prendas de vestir (trajes, uniformes, calzados de todo tipo, carteras, camisas, pantalones, calcetines, corbatas, gabachas, etc.)."
+54105;Productos de Papel y Cartón;Incluye los gastos por la adquisición de productos de papel y cartón para oficina (papel y cartón en sus diversas formas, formularios, planillas, folletos de cualquier índole, tarjetas, calendarios, libretas, libros de contabilidad, cartapacios, etc.), para computación, imprenta y reproducción (en bobinas, en planchas y prensado), papel de seguridad, así como otros productos de papel y cartón para otros usos.
+54106;Productos de Cuero y Caucho;Incluye los gastos por la adquisición de productos de cuero y pieles elaborados o semielaborados (maletas, carterones, guantes, portafolios y otros artículos de talabartería excluido el calzado) y artículos de caucho (esponjas, almohadas, asientos, colchones, mangueras, tubos, guantes para cualquier uso, excepto los de uso médico-quirúrgico, etc.).
+54107;Productos Químicos;"Incluye los gastos por la adquisición de compuestos químicos (gas industrial, oxígeno líquido y comprimido, acetileno, gas refrigerante, ácidos, sales, alcohol, etc.); abonos y fertilizantes; insecticidas y fumigantes (fungicidas, plaguicidas, herbicidas, productos antigerminantes, desinfectantes, etc.); tintas, pinturas y colorantes (tintas para imprenta, dibujo y otros; pinturas, barnices, esmaltes y lacas; pigmentos y colores preparados, disolventes, diluyentes y removedores; masillas y preparados similares) y productos de material plástico (láminas, bolsas, tubos y accesorios de PVC, etc.)."
+54108;Productos Farmacéuticos y Medicinales;"Incluye los gastos por la adquisición de sustancias y medicinas para la prevención, tratamiento y curación de enfermedades de personas. Comprende preparados genéricos y de marcas registradas, ampollas, cápsulas, tabletas, ungüentos, vitaminas, sueros, antibióticos; productos para cirugía, vendajes para fractura y productos para sutura, preparados para higiene bucal y dental; asimismo se consideran los medicamentos y productos farmacéuticos y demás artículos para uso veterinario."
+54109;Llantas y Neumáticos;Incluye los gastos por la adquisición de llantas y neumáticos para vehículos automotores de toda clase.
+54110;Combustibles y Lubricantes;Incluye los gastos por la adquisición de petróleo crudo, gasolina, aceites y grasas lubricantes, aceite diésel, kerosene, gas propano, etc.
+54111;Minerales no Metálicos y Productos Derivados;"Incluye los gastos por la adquisición de minerales no elaborados tales como: arena, cascajo, piedra, arcilla, tierra, mármol, etc.; y sus derivados, por ejemplo: artículos de cerámica, vidrio, loza, porcelana, cemento, cal, yeso, asbesto y demás productos elaborados con minerales no metálicos."
+54112;Minerales Metálicos y Productos Derivados;"Incluye los gastos por la adquisición de minerales metálicos sin elaborar, tales como: aluminio, cobre, plomo, estaño, hierro, zinc, níquel, oro, plata, etc.; productos de hierro y acero en lingotes, barras, planchas, perfiles, alambres, varillas, tubos, clavos, tornillos, pernos, etc.; productos derivados de las aleaciones que resulten de los metales mencionados y las estructuras metálicas acabadas."
+54113;Materiales e Instrumental de Laboratorios y Uso Médico;Incluye los gastos por la adquisición de material e instrumental menor de uso en medicina, cirugía, odontología, veterinaria y laboratorio, tales como: jeringas, agujas, gasas, vendajes, pinzas, guantes, etc.
+54114;Materiales de Oficina;Incluye los gastos por la adquisición de lápices, bolígrafos, portaminas, plumas, engrapadoras, perforadoras, borradores, cintas para máquina de escribir, calculadoras y contómetros, fasteners, sacapuntas, cinta adhesiva, bases para calendario, etc.
+54115;Materiales Informáticos;Incluye los gastos por la adquisición de materiales de uso informático, tales como: CD´s, mouse, mouse pad, disquetes, tarjetas de red, kit multimedia, cintas para impresora, cintas para datos, cables para red, cables para impresora, tóner y tintas para impresora, etc.
+54116;Libros, Textos, Útiles de Enseñanza y Publicaciones;Incluye los gastos por la adquisición de libros, periódicos, revistas, folletos y publicaciones no inventariables, destinadas al uso institucional o para su distribución al público y útiles de enseñanza como: guías de estudio, esferas, transportadores, compases, tiza, plastilina, punteros, implementos deportivos, producciones ideográficos, grabaciones, etc.
+54117;Materiales de Defensa y Seguridad Pública;Incluye los gastos por la adquisición de material tales como: municiones, cascos, cartuchos, herramientas de campaña y afines, etc. y equipo destinado a la defensa de la soberanía nacional, mantenimiento del orden público y seguridad institucional. Además comprende los gastos destinados a la infraestructura de uso militar, excepto fábricas y viviendas para familias de personal militar, que se clasifican como activos de capital fijo.
+54118;Herramientas, Repuestos y Accesorios;"Incluye los gastos por la adquisición de herramientas menores utilizadas en la agricultura, ganadería, horticultura, silvicultura, carpintería, enderezado de vehículos y otras actividades. Comprende por ejemplo: sierras, cuchillas, destornilladores, picos, palas, tenazas, martillos, cinceles; así como repuestos y accesorios pequeños para sustituir piezas deterioradas que forman parte de un equipo y que son indispensables para el normal funcionamiento del mismo."
+54119;Materiales Eléctricos;Incluye los gastos por la adquisición de cables, interruptores, transformadores de uso menor, tubos fluorescentes, lámparas, baterías, etc.
+54121;Especies Municipales Diversas;Incluye los gastos por la adquisición de certificación de partidas, carnet de Identidad Personal, Talonarios de cartas de ventas, Talonarios de Formulas 1-ISAM, Tiquetes de mercado, recibos de vialidad B, C y D, Tiquetes de estacionamientos y Especies Municipales diversas.
+54122;Vacunas para Humanos;Incluye los gastos para la adquisición de vacunas destinadas a la prevención de enfermedades en la población.
+54123;Oxígeno;Incluye los gastos por la adquisición de oxígeno para fines terapéuticos medicinales en la atención de pacientes.
+54199;Bienes de Uso y Consumo Diversos;Incluye los gastos por la adquisición de otros bienes de uso y consumo no considerados en los específicos anteriores, tales como: artículos de limpieza, utensilios de cocina, artículos de metal para uso doméstico, productos fotoquímicos, explosivos, etc.
+542;Servicios Básicos;Comprende los gastos por servicios de utilidad pública necesarios para el funcionamiento de los entes públicos.
+54201;Servicios de Energía Eléctrica;
+54202;Servicios de Agua;
+54203;Servicios de Telecomunicaciones;Incluye los gastos por los servicios de teléfono, telefax, telex, Internet, correo electrónico, etc.
+54204;Servicios de Correos;Incluye los gastos por los servicios de correspondencia vía expresa, courier, envíos postales, apartados postales, etc.
+543;Servicios Generales y Arrendamientos;Comprende los gastos necesarios para el cumplimiento de las funciones de los entes públicos, tales como: publicidad, alquileres, gastos de transportes, reparaciones y otros de igual naturaleza.
+54301;Mantenimientos y Reparaciones de Bienes Muebles;Incluye los gastos por los servicios de mantenimiento y reparaciones de mobiliario, maquinaria y equipo en general, necesarios para su normal funcionamiento.
+54302;Mantenimientos y Reparaciones de Vehículos;Incluye los gastos por los servicios de mantenimiento y reparaciones de toda clase de vehículos de transporte, necesarios para su normal funcionamiento.
+54303;Mantenimientos y Reparaciones de Bienes Inmuebles;Incluye los gastos por los servicios de mantenimiento y reparaciones de bienes inmuebles en general, tales como: edificios y locales, caminos, carreteras, autopistas, puentes, vías férreas, aeropuertos, obras portuarias, obras hidráulicas, etc., necesarios para conservarlos en condiciones adecuadas para su normal funcionamiento y que no aumentan su valor ni prolongan su duración normal.
+54304;Transportes, Fletes y Almacenamientos;Incluye los gastos originados por fletes terrestres, marítimos y aéreos de bienes muebles, suministros y artículos varios, el embalaje de mercancías, incluyendo su almacenaje.
+54305;Servicios de Publicidad;Incluye los gastos en concepto de publicidad y propaganda a través de cualquier medio de comunicación. Comprende los contratos con las agencias publicitarias, productoras televisivas y otros medios de comunicación.
+54306;Servicios de Vigilancia;Incluye los gastos por los servicios de vigilancia contratados con terceros.
+54307;Servicios de Limpiezas y Fumigaciones;Incluye los gastos por los servicios de limpiezas y fumigaciones en general de edificios y oficinas públicas.
+54308;Servicios de Lavanderías y Planchado;Incluye los gastos por los servicios de lavandería y planchado contratados con terceros.
+54309;Servicios de Laboratorios;Incluye los gastos por los servicios prestados por laboratorios de cualquier especialidad.
+54310;Servicios de Alimentación;Incluye los gastos por los servicios de alimentación contratados con terceros.
+54311;Servicios Educativos;Incluye los gastos por los servicios educativos prestados por las Asociaciones Comunales para la Educación, del programa EDUCO.
+54312;Servicios Portuarios, Aeroportuarios y Ferroviarios;Incluye los gastos por los servicios que se reciben en puertos, aeropuertos y estaciones ferroviarias en el interior y exterior del país.
+54313;Impresiones, Publicaciones y Reproducciones;"Incluye los gastos por los servicios de impresiones (especies timbradas, billetes o productos de lotería, bandas de garantía, libros, formularios, etc.), copias y encuadernaciones, prestados por terceros; así como publicaciones o divulgaciones de carácter informativo, técnico, cultural y científico. La adquisición de productos impresos deberá clasificarse en el específico correspondiente."
+54314;Atenciones Oficiales;Incluye los gastos por los servicios de recepciones, homenajes, agasajos y otros eventos de carácter oficial que realizan los entes públicos.
+54315;Gastos Reservados;Incluye los gastos destinados a sufragar actividades especiales autorizados por la Presidencia de la República.
+54316;Arrendamiento de Bienes Muebles;Incluye los gastos en concepto de arrendamiento de bienes muebles, tales como: maquinaria y equipo, fotocopiadoras, equipo de computación, etc.
+54317;Arrendamiento de Bienes Inmuebles;Incluye los gastos en concepto de arrendamiento de bienes inmuebles, tales como: terrenos, edificios y locales para oficinas, vivienda, escuelas, etc.
+54318;Arrendamiento por el Uso de Bienes Intangibles;Incluye los gastos en concepto de arrendamiento por la explotación de bienes intangibles tales como: patentes, franquicias, marcas de fábrica, software para comunicaciones, sistemas operativos y otros.
+54319;Servicios de Inspección;Comprende la adquisición de servicios, relacionados con procesos de inspección de mercancías u otros bienes, a través de la utilización de equipos, sistemas o cualquier otro medio.
+54399;Servicios Generales y Arrendamientos Diversos;Incluye los gastos por los servicios y arrendamientos no considerados en los específicos anteriores.
+544;Pasajes y Viáticos;Comprende los gastos destinados a retribuir al personal público o privado por las comisiones de servicios, dentro o fuera del territorio nacional, incluye los costos de los pasajes respectivos.
+54401;Pasajes al Interior;Comprende los gastos destinados a cancelar pasajes en concepto de comisiones por servicios del personal público o privado, dentro del territorio nacional. Además incluye el pago por servicios de transporte de personal de los Entes Públicos.
+54402;Pasajes al Exterior;Comprende los gastos destinados a cancelar pasajes en concepto de comisiones por servicios del personal público o privado, fuera del territorio nacional.
+54403;Viáticos por Comisión Interna;Comprende los gastos destinados a cancelar viáticos en concepto de comisiones por servicios del personal público o privado, dentro del territorio nacional.
+54404;Viáticos por Comisión Externa;Comprende los gastos destinados a cancelar viáticos en concepto de comisiones por servicios del personal público o privado, fuera del territorio nacional.
+545;Consultorías, Estudios e Investigaciones;Comprende los gastos destinados a honorarios legales o convencionales, orientados a recabar opiniones, estudios o trabajos especializados de instituciones o empresas consultoras, profesionales, especialistas u otras personas naturales o jurídicas que prestan dichos servicios, mediante convenios, acuerdos o contratos. Se excluyen los trabajos relacionados con estudios de pre-inversión destinados a proyectos o programas de inversión.
+54501;Servicios Médicos;
+54502;Servicios del Medio Ambiente y Recursos Naturales;
+54503;Servicios Jurídicos;
+54504;Servicios de Contabilidad y Auditoría;
+54505;Servicios de Capacitación;
+54506;Servicios de Fiscalización;
+54507;Desarrollos Informáticos;
+54508;Estudios e Investigaciones;
+54599;Consultorías, Estudios e Investigaciones Diversas;
+549;Crédito Fiscal;Comprende los créditos fiscales producto de las compras de bienes y servicios efectuados por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y a la prestación servicio. Se excluyen las operaciones realizadas como consumidor final.
+54901;Crédito Fiscal;
+55;GASTOS FINANCIEROS Y OTROS;Incluye los gastos originados en el uso del financiamiento de terceros, tributos, gravámenes, gastos bancarios, seguros u otras obligaciones de igual naturaleza, también en este concepto se incorporan los gastos no previstos en otros rubros corrientes del clasificador.
+551;Intereses y Comisiones de Títulos valores en el Mercado Nacional;Comprende los gastos destinados a cubrir los costos financieros de las emisiones de títulos valores colocados para la captación de ahorro interno.
+55101;Intereses y Comisiones de Bonos del Estado;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de bonos en el mercado interno.
+55102;Intereses y Comisiones de Letras del Tesoro;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de letras del tesoro en el mercado interno.
+55199;Intereses y Comisiones de Títulos valores Diversos;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de otros Títulos valores no considerados en los específicos anteriores.
+552;Intereses y Comisiones de Títulos valores en el Mercado Externo;Comprende los gastos destinados a cubrir los costos financieros de la emisión de Títulos valores colocados para la captación de ahorro externo.
+55201;Intereses y Comisiones de Bonos del Estado;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de bonos en el mercado externo.
+55202;Intereses y Comisiones de Letras del Tesoro;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de letras del tesoro en el mercado externo.
+55299;Intereses y Comisiones de Títulos valores Diversos;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la colocación de otros Títulos valores no considerados en los específicos anteriores.
+553;Intereses y Comisiones de Empréstitos Internos;Comprende los gastos provenientes de los costos financieros producto de la contratación y amortización de los empréstitos internos.
+55301;De Gobierno Central;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos del gobierno central.
+55302;De Instituciones Descentralizadas no Empresariales;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de instituciones descentralizadas no empresariales.
+55303;De Empresas Públicas no Financieras;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de empresas públicas no financieras.
+55304;De Empresas Públicas Financieras;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de empresas públicas financieras.
+55305;De Instituciones de Seguridad Social;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de instituciones de seguridad social.
+55306;De Municipalidades;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de los gobiernos locales.
+55307;De Empresas Privadas no Financieras;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de empresas privadas no financieras.
+55308;De Empresas Privadas Financieras;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de empresas privadas financieras.
+55309;De Organismos sin Fines de Lucro;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de organismos sin fines de lucro.
+55310;De Personas Naturales;Comprende los gastos destinados al pago de intereses y comisiones de los empréstitos obtenidos de personas naturales.
+554;Intereses y Comisiones de Empréstitos Externos;Comprende los gastos provenientes de los costos financieros producto de la contratación y amortización de los empréstitos externos.
+55401;De Empresas Privadas no Financieras;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con empresas privadas no financieras.
+55402;De Empresas Privadas Financieras;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con empresas privadas financieras.
+55403;De Gobiernos y Organismos Gubernamentales;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con gobiernos y organismos gubernamentales.
+55404;De Organismos Multilaterales;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con organismos multilaterales.
+55405;De Organismos sin Fines de Lucro;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con organizaciones sin fines de lucro.
+55406;De Personas Naturales;Comprende los gastos destinados al pago de intereses y comisiones ocasionados por la contratación de empréstitos en el exterior, con personas naturales.
+555;Impuestos, Tasas y Derechos;Comprende los gastos que gravan las operaciones que llevan a cabo los entes públicos, de conformidad con las disposiciones legales vigentes, y siempre que no constituya costo de los bienes o servicios adquiridos. Se incluyen las devoluciones de ingresos percibidos en exceso o por liquidaciones de impuestos.
+55501;Impuesto sobre la Renta;Comprende los gastos destinados al pago del impuesto sobre la renta, producto de utilidades obtenidas por los entes públicos de conformidad a lo establecido en las leyes vigentes, como consecuencia de la gestión realizada en el ejercicio precedente.
+55502;Impuesto sobre la Transferencia de Bienes Raíces;Comprende los gastos ocasionados por la transferencia de bienes inmuebles, adquiridos con la finalidad de utilizarlos en las actividades administrativas o productivas institucionales.
+55503;Impuesto sobre el Comercio Exterior;Comprende los gastos originados en transacciones comerciales de importación efectuadas entre residentes y el resto del mundo.
+55504;Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios;Comprende los gastos destinados al pago del impuesto, producto de la diferencia entre créditos y débitos fiscales de las instituciones inscritas como contribuyentes activos, según lo determinan las disposiciones legales vigentes.
+55505;Anticipo de Impuesto sobre la Renta;Comprende los gastos que se originan por los pagos obligatorios destinados a compensar el Impuesto sobre la Renta del ejercicio de que se trate.
+55506;Aplicación de Impuesto sobre la Renta;Comprende los montos totales pagados en concepto de anticipo a cuenta durante el ejercicio fiscal anterior, que se disminuyen del impuesto computado de renta.
+55507;Tasas;Comprende los gastos destinados al pago de los servicios públicos proporcionados por las instituciones que de acuerdo a las disposiciones legales vigentes están facultadas.
+55508;Derechos;Comprende los gastos destinados al pago de derechos por autorizaciones para proporcionar servicios o ejercer actividades específicas de la economía nacional.
+55509;Devoluciones de Impuestos Percibidos en Exceso;Comprende los gastos destinados al reintegro de impuestos percibidos en exceso, de personas naturales o jurídicas, efectuados mediante resolución a favor del contribuyente.
+55510;Devolución por Liquidación del Impuesto sobre la Renta;Comprende los gastos destinados al reintegro de impuestos sobre la renta en los casos en que cuando las sumas enteradas a cuenta del impuesto excedan lo que conforme a la Ley corresponda, sean estas personas naturales o jurídicas.
+55511;Devolución a Exportadores del Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios;Comprende los reintegros a los exportadores, de los créditos fiscales que no pudieron deducirse íntegramente de los débitos fiscales, durante el período tributario
+55599;Impuestos, Tasas y Derechos Diversos;Comprende los gastos destinados al pago de impuestos, tasas y derechos no considerados en los específicos anteriores.
+556;Seguros, Comisiones y Gastos Bancarios;Comprende los gastos destinados a asegurar al personal de los entes públicos, de conformidad con las disposiciones legales vigentes, y los bienes de propiedad del Estado. Se incluyen los costos por transacciones efectuados con el sistema financiero nacional o internacional.
+55601;Primas y Gastos de Seguros de Personas;Comprende los gastos destinados al pago de primas o pólizas por seguro de vida, médico hospitalario y otros a que tengan derecho los empleados o funcionarios públicos. Además incluye los gastos por seguros de fidelidad (fianzas).
+55602;Primas y Gastos de Seguros de Bienes;Comprende los gastos destinados al pago de primas o pólizas de seguro, relacionados con cualquier clase de bienes muebles o inmuebles propiedad de la institución, con la finalidad de protegerlos contra robos o daños de cualquier índole.
+55603;Comisiones y Gastos Bancarios;Comprende los gastos destinados al pago por los servicios recibidos de las instituciones del sistema financiero interno o externo.
+557;Otros Gastos no Clasificados;Comprende todo gasto no previsto en los restantes rubros corrientes del clasificador.
+55701;Diferenciales Cambiarios;Comprende los gastos efectuados por la fluctuación negativa en el tipo de cambio de la moneda nacional con relación a las monedas extranjeras.
+55702;Sentencias Judiciales;Comprende los gastos destinados al pago originado en juicios ganados por terceros en incumplimiento de convenios o contratos celebrados con los entes públicos.
+55703;Multas y Costas Judiciales;Comprende los gastos por infracciones de conformidad con las disposiciones legales, cualquiera que sea su origen, así como también aquellos desembolsos originados en procesos judiciales.
+55704;Comisiones y Descuentos sobre Ventas;Comprende los costos asumidos por las instituciones en concepto de comisiones, descuentos o bonificaciones efectuadas a favor de vendedores o distribuidores, sobre la venta de bienes y/o servicios.
+55799;Gastos Diversos;Comprende los gastos no considerados en los específicos anteriores y en los restantes rubros corrientes del clasificador.
+559;Crédito Fiscal;Comprende los créditos fiscales producto de operaciones financieras efectuadas por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y la prestación de servicios. Se excluyen las operaciones realizadas como consumidor final.
+55901;Crédito Fiscal;
+56;TRANSFERENCIAS CORRIENTES;Incluye los gastos destinados a otorgar aportes al sector interno o externo que no involucran contraprestación de bienes o servicios, y cuya finalidad es sufragar obligaciones corrientes de los receptores.
+561;Transferencias Corrientes por Aporte Fiscal;Comprende los aportes complementarios otorgados por el Tesoro Público, destinados al financiamiento de los gastos corrientes de los entes públicos. Los específicos se constituyen asociando el código de la cuenta 561 Transferencias Corrientes por Aporte Fiscal con los códigos asignados a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+562;Transferencias Corrientes al Sector Público;Comprende los aportes otorgados a entidades del sector público, excluidos aquellos provenientes del Tesoro Público. Los específicos se constituyen asociando el código de la cuenta 562 Transferencias Corrientes al Sector Público con los códigos asignados a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+563;Transferencias Corrientes al Sector Privado;Comprende los aportes otorgados a personas naturales o jurídicas del ámbito privado, incluyendo subsidios, premios, incentivos u otros tipos de beneficios concedidos por el Estado sin contraprestación de bienes y servicios.
+56301;A Empresas Privadas no Financieras;Comprende los aportes destinados a atender gastos corrientes a favor de empresas privadas no financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+56302;A Empresas Privadas Financieras;Comprende los aportes destinados a atender gastos corrientes a favor de empresas privadas financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+56303;A Organismos sin Fines de Lucro;Comprende los aportes destinados a atender gastos corrientes a favor de organizaciones sin fines de lucro con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+56304;A Personas Naturales;Comprende los aportes destinados a atender gastos corrientes a favor de personas naturales con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+56305;Becas;Comprende los gastos destinados al pago en concepto de ayuda a estudiantes de educación básica, media, superior, capacitaciones diversas y toda clase de estudios, que se realicen dentro o fuera del país.
+564;Transferencias Corrientes al Sector Externo;Comprende los aportes otorgados a personas naturales o jurídicas domiciliadas en el exterior, de conformidad con las facultades legales existentes.
+56403;A Gobiernos y Organismos Gubernamentales;Comprende los aportes otorgados a gobiernos y organismos gubernamentales sin domicilio en el país, de conformidad a las disposiciones legales vigentes y que no generan obligación de una contraprestación de bienes o servicios.
+56404;A Organismos Multilaterales;Comprende los aportes otorgados a organismos multilaterales, de conformidad a las disposiciones legales vigentes y que no generan obligación de una contraprestación de bienes o servicios.
+56405;A Organismos sin Fines de Lucro;Comprende los aportes otorgados a organizaciones sin fines de lucro sin domicilio en el país, de conformidad a las disposiciones legales vigentes y que no generan obligación de una contraprestación de bienes o servicios.
+56406;A Personas Naturales;Comprende los aportes otorgados a personas naturales sin domicilio en el país, de conformidad a las disposiciones legales vigentes y que no generan obligación de una contraprestación de bienes o servicios.
+61;INVERSIONES EN ACTIVOS FIJOS;Incluye los gastos destinados a las adquisiciones de bienes físicos, construcciones, operaciones inherentes a las mismas u otras de igual naturaleza, que incrementan las inversiones en recursos de propiedad pública, o dedicados a satisfacer las demandas de la sociedad.
+611;Bienes Muebles;Comprende los gastos destinados a la adquisición de bienes muebles a emplear en las actividades administrativas, productivas o necesarias para la ejecución de proyectos o programas de gobierno.
+61101;Mobiliarios;Incluye los gastos por los bienes que se adquieren para el equipamiento, decoración y ambientación de oficinas o instalaciones, tales como: escritorios, sillas, estantes, mesas para dibujo, módulos para equipo de computación, etc.
+61102;Maquinarias y Equipos;Comprende la adquisición de maquinaria y equipo que son de uso indispensable para la prestación de servicios, tales como: equipo de telecomunicaciones, médicos y de laboratorio, equipo militar, repuestos principales, instrumentos musicales, aire acondicionado, entre otros. Se exceptúan aquellos que son de apoyo institucional.
+61103;Equipos Médicos y de Laboratorios;Incluye los gastos la adquisición de equipos médicos, odontológicos y quirúrgicos, así como aquellos que sirven para las investigaciones científicas y que son utilizados en centros hospitalarios, laboratorios, clínicas, unidades de salud, etc.
+61104;Equipos Informáticos;Incluye los gastos por la adquisición de equipos computacionales, tales como: monitores, teclados, CPU, UPS, reguladores de voltaje, impresoras, centrales de procesamiento, servidores, etc.
+61105;Vehículos de Transporte;"Incluye los gastos por la adquisición de vehículos o cualquier equipo de transporte, sea éste terrestre, marítimo o aéreo; también comprende los equipos de tracción y elevación como tractores, montacargas, ascensores y otros."
+61106;Obras de Arte y Culturales;Incluye los gastos por la adquisición de obras artísticas y culturales, pinturas, esculturas y antigüedades que se adquieren con fines decorativos o coleccionables.
+61107;Libros y Colecciones;Incluye los gastos por la adquisición de enciclopedias, diccionarios, manuscritos o impresos coleccionables, que por sus características son inventariables.
+61108;Herramientas y Repuestos Principales;"Incluye los gastos por la adquisición de herramientas para tornear, perforar, fresar, cepillar, taladrar, rectificar, prensar, clavar y otras; máquinas eléctricas y de gas para soldadura autógena; herramientas con motor y de funcionamiento con aire comprimido; repuestos y accesorios que son indispensables para prolongar la vida útil del bien y que además le incrementan su valor nominal, tales como: chasis, motores, carrocería, etc."
+61109;Maquinaria y Equipo para la Producción;Comprende la adquisición de maquinaria y equipo que son utilizados en actividades de producción agropecuaria e industrial, tales como: maquinaria para construcción, perforación, pavimentación, grúas de elevación, para transformación de materias primas en maderas y textiles, ensambladoras, entre otros.
+61110;Maquinaria y Equipo para Apoyo Institucional;Comprende la adquisición de maquinaria y equipo destinado directamente a las actividades de apoyo institucional, tales como: mobiliarios y equipo de oficina, herramientas, repuestos, accesorios y otros que son necesarios para mantener el adecuado funcionamiento de los bienes institucionales.
+61199;Bienes Muebles Diversos;Incluye los gastos por la adquisición de bienes muebles no considerados en los específicos anteriores.
+612;Bienes Inmuebles;Comprende los gastos orientados a la compra de bienes inmuebles destinados a las actividades administrativas, productivas o necesarios para la ejecución de proyectos o programas de gobierno.
+61201;Terrenos;Incluye los gastos por la adquisición de fincas, haciendas, predios y terrenos de naturaleza rústica, urbana o rural.
+61202;Edificios e Instalaciones;Incluye los gastos por la adquisición de edificios en general, fábricas, represas, muelles, canalizaciones, drenajes, establos, bodegas, redes de servicio público o privado, así como el terreno en que estos se asientan.
+61299;Inmuebles Diversos;Incluye los gastos por la adquisición de bienes inmuebles no considerados en los específicos anteriores.
+613;Semovientes;Comprende los gastos destinados a la adquisición de ganado de diferentes especies, a emplear en las actividades de investigaciones, reproductoras, productivas u otro destino de acuerdo con las funciones institucionales.
+61301;Ganado Vacuno;
+61302;Ganado Caballar;
+61303;Ganado Porcino;
+61399;Semovientes Diversos;
+614;Intangibles;Comprende los gastos orientados a la compra de derechos de propiedad industrial, comercial, intelectual u otros de igual naturaleza.
+61401;Derechos de Propiedad Industrial;Incluye los gastos por la adquisición de derechos de propiedad industrial, tales como concesión por la explotación de minas, fórmulas industriales, etc.
+61402;Derechos de Propiedad Comercial;Incluye los gastos por la adquisición de derechos de propiedad comercial, tales como patentes, marcas de fábrica, nombres comerciales, créditos mercantiles, etc.
+61403;Derechos de Propiedad Intelectual;Incluye los gastos por la adquisición de derechos de propiedad intelectual, tales como derechos de autor, edición, licencias de software, etc.
+61499;Derechos de Intangibles Diversos;Incluye los gastos por la adquisición de derechos de propiedad de otros bienes intangibles no considerados en los específicos anteriores.
+615;Estudios de Preinversión;Comprende los gastos destinados a honorarios legales o convencionales, orientados a recabar opiniones, estudios o trabajos especializados de empresas consultoras, profesionales, especialistas u otras personas naturales o jurídicas que prestan dicho servicio, mediante convenios, acuerdos o contratos, y cuya finalidad es la ejecución de proyectos o programas de inversión pública.
+61501;Proyectos de Construcciones;Comprende los gastos que se efectúan por estudios o trabajos especializados para determinar la factibilidad de ejecución de programas o proyectos de inversión en construcciones de obras.
+61502;Proyectos de Ampliaciones;Comprende los gastos que se efectúan por estudios o trabajos especializados para determinar la factibilidad de ejecución de programas o proyectos de inversión en ampliaciones de obras.
+61503;Programas de Inversión Social;Comprende los gastos que se efectúan por estudios o trabajos especializados para determinar la factibilidad de ejecución de programas o proyectos de inversiones sociales.
+61599;Proyectos y Programas de Inversión Diversos;Comprende los gastos que se efectúan por estudios o trabajos especializados para determinar la factibilidad de ejecución de programas o proyectos de inversiones no considerados en los específicos anteriores.
+616;Infraestructuras;Comprende los gastos provenientes de la ejecución de obras de infraestructura y erogaciones capitalizables necesarias para la conservación, mantenimiento, mejora de los bienes de propiedad de los entes públicos, o constituidos como bienes nacionales de uso público.
+61601;Viales;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras o ampliaciones de carreteras, caminos, puentes, vías urbanas, rurales y otras.
+61602;De Salud y Saneamiento Ambiental;"Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras o ampliaciones de edificios o locales destinados para hospitales, centros de salud, clínicas, etc.; asimismo, se incluyen los desembolsos efectuados para desarrollar obras de saneamiento ambiental en poblaciones rurales y urbanas."
+61603;De Educación y Recreación;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de edificios o instalaciones destinadas al área de educación, así como también lugares de recreo, canchas deportivas, etc.
+61604;De Vivienda y Oficina;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de edificios y casas destinadas para vivienda y oficina.
+61605;Portuarias, Aeroportuarias y Ferroviarias;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de instalaciones e infraestructuras portuarias, aeroportuarias y ferroviarias.
+61606;Eléctricas y Comunicaciones;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de redes y plantas de distribución eléctrica y de comunicaciones.
+61607;De Producción de Bienes y Servicios;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de obras destinadas a la producción de bienes y servicios, tales como: plantas hidroeléctricas, obras para riegos, etc.
+61608;Supervisión de Infraestructuras;Comprende los gastos que se efectúan para pagar actividades de supervisión sobre la ejecución de programas y proyectos de construcciones, reconstrucciones, mejoras y ampliaciones descritas en los específicos considerados en esta cuenta.
+61699;Obras de Infraestructura Diversas;Comprende los gastos que se efectúan por construcciones, reconstrucciones, mejoras y ampliaciones de obras o infraestructuras no consideradas en los específicos anteriores.
+619;Crédito Fiscal;Comprende los créditos fiscales producto de las adquisiciones de bienes muebles por entes públicos, dentro del giro comercial, industrial o servicio, siempre y cuando sean contribuyentes activos del impuesto a la transferencia de bienes muebles y a la prestación de servicios. Se excluyen las operaciones realizadas como consumidor final.
+61901;Crédito Fiscal;
+62;TRANSFERENCIAS DE CAPITAL;Incluye los gastos destinados a otorgar aportes al sector interno que no involucran contraprestación de bienes o servicios, y cuya finalidad es sufragar obligaciones de capital y amortización de deuda de los receptores.
+621;Transferencias de Capital por Aporte Fiscal;Comprende los aportes complementarios otorgados por el Tesoro Público, destinados al financiamiento de los gastos de capital y amortización de deuda de los entes públicos. Los específicos se constituyen asociando el código de la cuenta 621 Transferencias de Capital por Aporte Fiscal con los códigos asignados a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+622;Transferencias de Capital al Sector Público;Comprende los aportes otorgados a entidades del sector público, excluidos aquellos provenientes del Tesoro Público. Los específicos se constituyen asociando el código de la cuenta 622 Transferencias de Capital al Sector Público con los códigos asignados a las instituciones del Sector Público en el Clasificador Institucional por Áreas de Gestión para fines Presupuestarios.
+623;Transferencias de Capital al Sector Privado;Comprende los aportes otorgados a personas naturales o jurídicas del ámbito privado.
+62301;A Empresas Privadas no Financieras;Comprende los aportes destinados a atender gastos de capital a favor de empresas privadas no financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+62302;A Empresas Privadas Financieras;Comprende los aportes destinados a atender gastos de capital a favor de empresas privadas financieras con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+62303;A Organismos sin Fines de lucro;Comprende los aportes destinados a atender gastos de capital a favor de organizaciones sin fines de lucro con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+62304;A Personas Naturales;Comprende los aportes destinados a atender gastos de capital a favor de personas naturales con domicilio en el país, que no generan obligación de una contraprestación de bienes o servicios.
+62305;Becas;Comprende los gastos destinados a financiar la ayuda económica que se otorga a estudiantes de educación superior para su formación técnica profesional y especializada, y que coadyuve a la competitividad nacional, incluyendo la compra de libros, colegiaturas, matriculas, gastos de manutención, trabajos de graduación, entre otros.
+624;Otras Transferencias de Capital;Comprende los aportes destinados para atender otros Gastos de Capital Diversos, no considerados en las restantes Cuentas de Transferencias de Capital del Clasificador.
+62401;Transferencias de Capital Diversas;Comprende los aportes destinados para atender otros Gastos de Capital Diversos, no considerados en las restantes Cuentas de Transferencias de Capital del Clasificador.
+63;INVERSIONES FINANCIERAS;Incluye los gastos en inversiones originados en las colocaciones de fondos y adquisiciones de derechos o valores.
+631;Inversiones en Títulos valores;Comprende las inversiones en depósitos, bonos u otros documentos de inversión de recursos en el mercado de capitales.
+63101;Bonos;Comprende los desembolsos originados por la inversión financiera en bonos emitidos por entidades nacionales.
+63102;Letras del Tesoro;Comprende los desembolsos originados por la inversión financiera en letras del tesoro.
+63103;Notas de Crédito del Tesoro Público;Comprende los desembolsos originados por la inversión financiera en notas de crédito del Tesoro Público.
+63104;Cédulas Hipotecarias;Comprende los desembolsos originados por la inversión financiera en cédulas hipotecarias.
+63105;Depósitos a Plazos;Comprende los desembolsos originados por la inversión financiera en depósitos a plazos realizados en instituciones del sistema financiero nacional.
+63106;Acciones;Comprende los desembolsos originados por la inversión financiera en acciones de sociedades y empresas públicas o privadas.
+63107;Participación de Capital;Comprende los desembolsos originados por la inversión financiera en la participación de capital que no está representada por acciones, tales como las participaciones de capital en sociedades de personas.
+63108;Títulos valores del Exterior;Comprende los desembolsos originados por la inversión financiera en depósitos, títulos valores negociables, realizadas en el resto del mundo.
+63109;Acciones y Participación de Capital en el Exterior;Comprende los desembolsos originados por la inversión financiera en acciones y participaciones de capital, realizadas en sociedades y empresas del resto del mundo.
+63199;Títulos valores Diversos;Comprende los desembolsos por la inversión financiera en depósitos, valores negociables, acciones y participaciones de capital no considerados en los específicos anteriores.
+632;Préstamos;Comprende los recursos destinados al otorgamiento de créditos a personas naturales o jurídicas, bajo las condiciones pactadas en los respectivos convenios o contratos.
+63201;Al Gobierno Central;Comprende los desembolsos efectuados por el otorgamiento de créditos al gobierno central, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63202;A Instituciones Descentralizadas no Empresariales;Comprende los desembolsos efectuados por el otorgamiento de créditos a las instituciones descentralizadas no empresariales, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63203;A Empresas Públicas no Financieras;Comprende los desembolsos efectuados por el otorgamiento de créditos a las empresas públicas no financieras, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63204;A Empresas Públicas Financieras;Comprende los desembolsos efectuados por el otorgamiento de créditos a las empresas públicas financieras, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63205;A Instituciones de Seguridad Social;Comprende los desembolsos efectuados por el otorgamiento de créditos a las instituciones de seguridad social, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63206;A Municipalidades;Comprende los desembolsos efectuados por el otorgamiento de créditos a los gobiernos locales, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63207;A Empresas Privadas no Financieras;Comprende los desembolsos efectuados por el otorgamiento de créditos a las empresas privadas no financieras, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63208;A Empresas Privadas Financieras;Comprende los desembolsos efectuados por el otorgamiento de créditos a las empresas privadas financieras, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63209;A Organismos sin Fines de Lucro;Comprende los desembolsos efectuados por el otorgamiento de créditos a los organismos sin fines de lucro, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+63210;A Personas Naturales;Comprende los desembolsos efectuados por el otorgamiento de créditos a las personas naturales, de conformidad a lo estipulado en los contratos o convenios correspondientes.
+71;AMORTIZACION DE ENDEUDAMIENTO PÚBLICO;Incluye los gastos destinados al rescate de las colocaciones de instrumentos públicos, o amortización de los empréstitos contratados.
+711;Rescate de Colocaciones de Títulos valores en el Mercado;Comprende los recursos destinados al rescate de bonos, letras u otros instrumentos destinados a la captación de ahorro interno.
+71101;Rescate de Bonos del Estado;Comprende los gastos destinados al rescate de bonos colocados en el mercado nacional.
+71102;Rescate de Letras del Tesoro;Comprende los gastos destinados al rescate de las letras del tesoro colocadas en el mercado nacional.
+71103;Rescate de Notas de Crédito del Tesoro Público;Comprende los gastos destinados al rescate de las notas de crédito colocadas en el mercado nacional.
+71199;Rescate de Títulos valores Diversos;Comprende los gastos destinados al rescate de otros títulos valores colocados en el mercado nacional, no considerados en los específicos anteriores.
+712;Rescate de Colocaciones de Títulos valores en el Mercado Externo;Comprende los recursos destinados al rescate de bonos, letras u otros instrumentos destinados a la captación de ahorro externo.
+71201;Rescate de Bonos del Estado;Comprende los gastos destinados al rescate de la colocación de bonos en el mercado externo.
+71202;Rescate de Letras del Tesoro;Comprende los gastos destinados al rescate de la colocación de letras del tesoro en el mercado externo.
+71299;Rescate de Títulos valores Diversos;Comprende los gastos destinados al rescate de la colocación de otros títulos valores en el mercado externo, no considerados en los específicos anteriores.
+713;Amortización de Empréstitos Internos;Comprende los recursos destinados a la amortización de los créditos financieros provenientes de contratos o convenios con personas naturales o jurídicas, con domicilio en el país.
+71301;De Gobierno Central;Comprende los gastos destinados a la amortización de los créditos contratados con el gobierno central, orientados a financiar actividades de inversión para la formación de activos fijos.
+71302;De Instituciones Descentralizadas no Empresariales;Comprende los gastos destinados a la amortización de los créditos financieros contratados con instituciones descentralizadas no empresariales, orientados a financiar actividades de inversión para la formación de activos fijos.
+71303;De Empresas Públicas no Financieras;Comprende los gastos destinados a la amortización de los créditos contratados con empresas públicas no financieras, orientados a financiar actividades de inversión para la formación de activos fijos.
+71304;De Empresas Públicas Financieras;Comprende los gastos destinados a la amortización de los créditos contratados con empresas públicas financieras, orientados a financiar actividades de inversión para la formación de activos fijos.
+71305;De Instituciones de Seguridad Social;Comprende los gastos destinados a la amortización de los créditos contratados con instituciones de seguridad social, orientados a financiar actividades de inversión para la formación de activos fijos.
+71306;De Municipalidades;Comprende los gastos destinados a la amortización de los créditos contratados con gobiernos locales, orientados a financiar actividades de inversión para la formación de activos fijos.
+71307;De Empresas Privadas no Financieras;Comprende los gastos destinados a la amortización de los créditos contratados con empresas privadas no financieras, orientados a financiar actividades de inversión para la formación de activos fijos.
+71308;De Empresas Privadas Financieras;Comprende los gastos destinados a la amortización de los créditos contratados con empresas privadas financieras, orientados a financiar actividades de inversión para la formación de activos fijos.
+71309;De Organismos sin Fines de Lucro;Comprende los gastos destinados a la amortización de los créditos contratados con organismos sin fines de lucro, orientados a financiar actividades de inversión para la formación de activos fijos.
+71310;De Personas Naturales;Comprende los gastos destinados a la amortización de los créditos contratados con personas naturales, orientados a financiar actividades de inversión para la formación de activos fijos.
+714;Amortización de Empréstitos Externos;Comprende los recursos destinados a la amortización de los créditos financieros originados en contratos o convenios con personas naturales o jurídicas, sin domicilio en el país.
+71401;De Empresas Privadas no Financieras;Comprende los desembolsos destinados a la amortización de los créditos contratados con empresas privadas no financieras, orientados a financiar programas o proyectos de inversión.
+71402;De Empresas Privadas Financieras;Comprende los desembolsos destinados a la amortización de los créditos contratados con empresas privadas financieras, orientados a financiar programas o proyectos de inversión.
+71403;De Gobiernos y Organismos Gubernamentales;Comprende los desembolsos destinados a la amortización de los créditos contratados con gobiernos y organismos gubernamentales extranjeros, orientados a financiar programas o proyectos de inversión.
+71404;De Organismos Multilaterales;Comprende los desembolsos destinados a la amortización de los créditos contratados con organismos multilaterales, orientados a financiar programas o proyectos de inversión
+71405;De Organismos sin Fines de Lucro;Comprende los desembolsos destinados a la amortización de los créditos contratados con organizaciones sin fines de lucro, orientados a financiar programas o proyectos de inversión.
+71406;De Personas Naturales;Comprende los desembolsos destinados a la amortización de los créditos contratados con personas naturales, orientados a financiar programas o proyectos de inversión.
+72;SALDOS DE AÑOS ANTERIORES;Incluye obligaciones devengadas y pendientes de pago existentes al término del ejercicio fiscal precedente al cual se proyecta ejecutar.
+721;Cuentas por Pagar de Años Anteriores Gastos Corrientes;Obligaciones devengadas y pendientes de pago existentes al término del ejercicio fiscal anterior, relacionadas con gastos corrientes, y cuya cancelación se estima efectuar en el período presupuestario en el cual se proyecta ejecutar.
+72101;Cuentas por Pagar de Años Anteriores Gastos Corrientes;Obligaciones devengadas y pendientes de pago existentes al término del ejercicio fiscal anterior, relacionadas con gastos de capital, y cuya cancelación se estima efectuar en el período presupuestario en el cual se proyecta ejecutar.
+722;Cuentas por Pagar de Años Anteriores Gastos de Capital;Obligaciones devengadas y pendientes de pago existentes al término del ejercicio fiscal anterior, relacionadas con gastos de capital, y cuya cancelación se estima efectuar en el período presupuestario en el cual se proyecta ejecutar.
+72201;Cuentas por Pagar de Años Anteriores Gastos de Capital;
+81;TRANSFERENCIAS DE CONTRIBUCIONES ESPECIALES;Incluye los gastos destinados como aportes al Sector Público, con la finalidad de sufragar obligaciones en el proceso de producción de bienes públicos y en la prestación de servicios públicos, en el cumplimiento de los fines institucionales.
+811;Transferencias de Contribuciones Especiales al Sector Público;Comprende los aportes otorgados a entidades del Sector Público para sufragar obligaciones derivadas de actividades de beneficio público.
+81101;A Fondo de Conservación Vial;Comprende los aportes destinados a atender gastos relacionados con el mantenimiento rutinario y periódico de la Red Vial Nacional Prioritaria, la señalización, así como las labores de mantenimiento de puentes y obras de paso.
+81102;A Consejo Salvadoreño de la Agroindustria Azucarera (CONSAA);Comprende los aportes destinados a atender los gastos relacionados con el funcionamiento del Consejo Salvadoreño de la Agroindustria Azucarera.
+81103;Al Fondo Solidario para la Salud;Comprende los aportes destinados a cubrir los gastos relacionados con el funcionamiento del Fondo Solidario para la Salud (FOSALUD).
+81104;A la Corporación Salvadoreña de Turismo;Comprende los aportes destinados a cubrir los gastos de la Corporación Salvadoreña de Turismo relacionados con la promoción del turismo.
+81105;A Transporte - Estabilización de las Tarifas del Servicio Público;Comprende los aportes destinados a garantizar la estabilidad de las tarifas que se pagan por el servicio público de transporte colectivo de pasajeros.
+81106;Al Fondo para la Atención a Víctimas de Accidentes de Tránsito;Comprende los aportes que se transfieren al FONAT, destinados a cubrir los gastos relacionados con la promoción de la seguridad vial, las prestaciones económicas a personas que resulten afectadas a consecuencia de un accidente de tránsito, la realización de análisis técnicos, económicos y científicos e inversiones financieras para el mejoramiento de la red vial del país, entre otros.
+81107;Al Ministerio de Salud para la Atención a Víctimas de Accidentes de Tránsito;Comprende los aportes que se transfieren al Ministerio de Salud, destinados a cubrir los gastos relacionados con el fortalecimiento de la atención pre hospitalaria y a los servicios de salud hospitalarios y rehabilitación.
+81108;Al Financiamiento para la Seguridad Ciudadana y Convivencia;Comprende la contribución especial que se transfiere para cubrir los gastos destinados para la Seguridad Ciudadana y Convivencia, y que están relacionados con el fortalecimiento de las instituciones de seguridad, la implementación de planes y políticas orientadas a la prevención de la violencia, la disminución de la violencia intrafamiliar, la mejora en los centros penales, la rehabilitación y reinserción, la protección y atención a víctimas y al fortalecimiento del Sistema de Justicia, entre otros.
+99;ASIGNACIONES POR APLICAR;Asignación de recursos a distribuir en conceptos específicos del presupuesto, durante la ejecución presupuestaria. Se excluye toda opción de ejecutar gastos directos con aplicación a este rubro.
+991;Asignaciones por Aplicar Gastos Corrientes;Asignación de recursos a distribuir en conceptos específicos del presupuesto para gastos corrientes, durante la ejecución presupuestaria. Se excluye toda opción de ejecutar gastos directos con aplicación a esta cuenta.
+99101;Asignaciones por Aplicar Gastos Corrientes;
+992;Asignaciones por Aplicar Gastos de Capital;Asignación de recursos a distribuir en conceptos específicos del presupuesto para gastos de capital, durante la ejecución presupuestaria. Se excluye toda opción de ejecutar gastos directos con aplicación a esta cuenta.
+99201;Asignaciones por Aplicar Gastos de Capital;

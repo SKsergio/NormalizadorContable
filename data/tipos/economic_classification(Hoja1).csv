@@ -1,0 +1,90 @@
+﻿code,name,description
+1,INGRESOS,
+11,Ingresos Corrientes,"Comprende la totalidad de las rentas ordinarias que se estima recaudar por el pago de impuestos y contribuciones, en concepto de ingresos tributarios, no tributarios, contribuciones a la seguridad social, venta de bienes y servicios, ingresos financieros y otros y transferencias corrientes."
+111,Ingresos Tributarios,"Los Ingresos Tributarios son los que provienen de la potestad soberana que tiene el Estado de imponer tributos y se clasifican en directos e indirectos. Los Impuestos Directos se aplican generalmente bajo los principios de capacidad de pago y de equidad vertical y gravan los ingresos y el patrimonio de personas naturales y jurídicas residentes en el país. Los Impuestos Indirectos son los gravámenes que forman parte de la estructura de costos de producción y/o comercialización, gravan el consumo de bienes y servicios, las transacciones y operaciones comerciales de los residentes con el resto del mundo."
+1111,Impuestos Directos,
+1112,Impuestos Indirectos,
+112,Ingresos no Tributarios,"Los Ingresos no Tributarios constituyen las entradas por tasas y derechos pagados a cambio de bienes o servicios. Las Tasas y Derechos son gravámenes fijados en las leyes o determinados por las entidades y organismos del Estado, originados en servicios que se proporcionan a la sociedad, o como consecuencia de la habilitación para ejercer determinadas actividades públicas o privadas."
+1121,Tasas,
+1122,Derechos,
+113,Contribuciones a la Seguridad Social,"Son las contribuciones obligatorias de empleados y empleadores en forma proporcional a los salarios pagados, destinadas a las instituciones públicas o privadas encargadas de administrar los distintos regímenes de previsión y asistencia social. Incluye los aportes del Estado a los sistemas de seguridad social."
+114,Venta de Bienes y Servicios,"Son los ingresos que se originan por la venta de bienes y servicios provenientes del giro comercial, industrial o servicios, producto de la actividad que desarrolla la institución."
+115,Ingresos Financieros y Otros,"Son los recursos que se originan por la propiedad de bienes, sean de capital, títulos, valores o físicos; así como por el producto de diferenciales cambiarios, multas, ingresos de igual naturaleza y otros."
+1151,Rendimientos de Títulos y Valores,
+1152,Intereses de Préstamos,
+1153,Intereses por Mora y Multas,
+1154,Arrendamiento de Bienes,
+1155,Garantías y Fianzas,
+1156,Indemnizaciones y Valores no Reclamados,
+1157,Otros Ingresos no Clasificados,
+116,Transferencias Corrientes,Son los ingresos que se perciben del sector interno o externo y que no generan obligaciones en contraprestación de bienes o servicios. Se utilizan para financiar obligaciones corrientes.
+1161,Transferencias Corrientes de Aporte Fiscal,
+1162,Transferencias Corrientes del Sector Público,
+1163,Transferencias Corrientes del Sector Privado,
+1164,Transferencias Corrientes del Sector Externo,
+12,Ingresos De Capital,"Incluye la captación de recursos en concepto de ingresos por la venta de activos fijos, transferencias de capital recibidas y recuperación de inversiones financieras, tanto en títulos y valores como en préstamos."
+121,Venta de Activos Fijos,"Comprende la venta de activos fijos propiedad de los entes públicos, tales como: bienes muebles, inmuebles, intangibles y otros."
+122,Transferencias de Capital,Son los ingresos que se perciben del sector interno o externo y que no generan obligaciones en contraprestación de bienes o servicios. Se utilizan para sufragar obligaciones de capital y/o amortizaciones de deuda.
+1221,Transferencias de Capital de Aporte Fiscal,
+1222,Transferencias de Capital del Sector Público,
+1223,Transferencias de Capital del Sector Privado,
+1224,Transferencias de Capital del Sector Externo,
+1225,Otras Transferencias de Capital,
+123,Recuperación de Inversiones Financieras,"Incluye los recursos provenientes del rescate o reintegro de las inversiones originadas en las colocaciones de fondos, derechos o valores."
+1231,Recuperación de Inversiones en Títulos y Valores,
+1232,Recuperación de Préstamos,
+13,Financiamiento,El Financiamiento es la capacidad de endeudamiento que tiene el gobierno frente a los acreedores internos y externos. El Endeudamiento Público incluye los ingresos provenientes de la colocación de instrumentos públicos y contratación de empréstitos.
+131,Endeudamiento Público,
+1311,Colocaciones de Títulos y Valores en el Mercado Nacional,
+1312,Colocaciones de Títulos y Valores en el Mercado Externo,
+1313,Contratación de Empréstitos Internos,
+1314,Contratación de Empréstitos Externos,
+14,Ingresos por Contribuciones Especiales,"Comprende los ingresos que obtiene el Estado por contribuciones conferidas mediante leyes especiales, para el financiamiento de actividades de beneficio público."
+141,Ingresos por Contribuciones Especiales,
+2,GASTOS,
+21,Gastos Corrientes,"Comprende las erogaciones destinadas a las operaciones de producción de bienes y prestación de servicios, incluye los gastos de consumo y gestión operativa, prestaciones de la seguridad social, gastos financieros y otros y las transferencias de recursos que no implican contraprestación de bienes y servicios"
+211,Gastos de Consumo o Gestión Operativa,"Son las erogaciones en que incurren los entes públicos para la producción de bienes y prestación de servicios. Comprenden los gastos en concepto de remuneraciones al personal y la compra de bienes y servicios. Además, se incluyen los gastos por la adquisición de equipo destinado a la defensa de la soberanía nacional, mantenimiento del orden público y seguridad institucional, además los desembolsos orientados a la infraestructura de uso militar, excepto fábricas y viviendas para familias del personal militar, que se clasifican como activos de capital fijo."
+2111,Remuneraciones,
+2112,Bienes y Servicios,
+212,Prestaciones de la Seguridad Social,"Comprende los gastos por los beneficios previsionales que otorgan las instituciones públicas o privadas de seguridad social a sus afiliados o beneficiarios, de conformidad con las leyes establecidas para tal fin."
+213,Gastos Financieros y Otros,"Comprende los gastos originados en el uso del financiamiento de terceros, tributos, gravámenes, gastos bancarios, seguros, obligaciones de igual naturaleza y otros gastos corrientes no especificados en los otros rubros."
+2131,Intereses y Comisiones de Títulos y Valores en el Mercado Nacional,
+2132,Intereses y Comisiones de Títulos y Valores en el Mercado Externo,
+2133,Intereses y Comisiones de Empréstitos Internos,
+2134,Intereses y Comisiones de Empréstitos Externos,
+2135,"Impuestos, Tasas y Derechos",
+2136,"Seguros, Comisiones y Gastos Bancarios",
+2137,Crédito Fiscal,
+2138,Asignaciones por Aplicar,
+2139,Otros Gastos no Clasificados,
+214,Transferencias Corrientes,"Son los gastos otorgados en concepto de aportes al sector interno o externo, que no involucran la contraprestación de bienes o servicios. Se utilizan para sufragar obligaciones corrientes."
+2141,Transferencias Corrientes por Aporte Fiscal,
+2142,Transferencias Corrientes al Sector Público,
+2143,Transferencias Corrientes al Sector Privado,
+2144,Transferencias Corrientes al Sector Externo,
+22,Gastos de Capital,"Son las erogaciones destinadas a la adquisición o producción de activos de capital, incremento de las existencias de productos estratégicos o de emergencia, tierras y activos intangibles. Incluye los pagos sin contraprestación para que los receptores puedan adquirir tales activos, compensarlos por daño o destrucción de los mismos o aumentar su capital financiero. Los gastos de capital comprenden las inversiones en activos fijos, capital humano, transferencias de capital otorgadas e inversiones financieras, tanto en títulos y valores como en préstamos."
+221,Inversiones En Activos Fijos,"Son los gastos destinados a las adquisiciones de bienes físicos, construcciones, operaciones inherentes a las mismas u otras de igual naturaleza, que incrementan las inversiones en recursos de propiedad pública, o dedicados a satisfacer las demandas de la sociedad. Se excluyen los gastos orientados a la adquisición de equipo e infraestructura de uso militar y defensa."
+2211,Bienes Muebles,
+2212,Bienes Inmuebles,
+2213,Intangibles,
+2214,Infraestructura,
+2215,Crédito Fiscal,
+2216,Asignaciones Por Aplicar,
+222,Inversión En Capital Humano,"Comprende todos los gastos de inversión que no están destinados a la formación de un bien físico final, se orientan al desarrollo personal de los recursos humanos."
+2221,Inversión En Capital Humano,
+223,Transferencias De Capital,Son los gastos destinados a otorgar aportes al sector interno que no involucran contraprestación de bienes o servicios. Se utilizan para sufragar obligaciones de capital y amortización de deuda de los receptores.
+2231,Transferencias De Capital por Aporte Fiscal,
+2232,Transferencias de Capital al Sector Publico,
+2233,Transferencias de Capital al Sector Privado,
+2234,Otras Transferencias de Capital,
+224,Inversiones Financieras,"Comprende los desembolsos realizados en inversiones originadas en las colocaciones de fondos, derechos o valores."
+2241,Inversiones en Títulos y Valores,
+2242,Préstamos,
+23,Aplicaciones Financieras,"Las aplicaciones financieras están constituidas por la amortización del endeudamiento que realizan los entes públicos. Dicha amortización incluye el rescate de títulos, valores y empréstitos internos o externos."
+231,Amortización Endeudamiento Público,
+2311,Rescate de Colocaciones de Títulos y Valores en el Mercado Nacional,
+2312,Rescate de Colocaciones de Títulos y Valores en el Mercado Externo,
+2313,Amortización de Empréstitos Internos,
+2314,Amortización de Empréstitos Externos,
+24,Gastos de Contribuciones Especiales,Esta categoría comprende los gastos que se destinan para el financiamiento de actividades de beneficio público.
+241,Transferencias de Contribuciones Especiales,
